@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
+# Source documents under copyright and raw downloads stay out of the repository (D-003)
+references/pdf/
+projects/*/raw/
+projects/*/archive/
