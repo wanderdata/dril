@@ -1,0 +1,10 @@
+[project]
+name = "dril"
+version = "0.1.0"
+description = "Shared components for Deep Research on a Loop (DRIL) projects"
+requires-python = ">=3.10"
+dependencies = ["pandas>=2.0", "openpyxl>=3.1", "pyyaml>=6.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

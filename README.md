@@ -8,15 +8,25 @@ The repository is maintained by Paul Wander (UN-ECLAC). The views expressed are 
 
 | Path | Content |
 |---|---|
-| `dril/` | Shared components used by every project: schemas for the research instrument, unit space, evidence policy and records; validators; verification and coverage tools. To be built once the first projects define what they need. |
+| `dril/` | Shared components: loading a machine-readable instrument (`instrument.py`), validating records and evidence against it (`validate.py`), country codes and subregions (`countries.py`). Verification and ledger tools will be added as projects need them. |
 | `projects/<name>/` | One folder per application. Each holds its frozen protocol (instrument, unit roster, evidence policy, run parameters), the records produced, verification results and a short paper or note. |
 | `docs/method/` | Notes on the method, including changes made to the procedure in the original paper and the reasons for them. |
 | `docs/register/` | Research log, decision log and open questions. |
 | `references/` | Literature register. Source documents under copyright are not committed. |
 
-## Status
+## Projects
 
-Set-up. Projects will be added as their references and protocols are prepared.
+| Project | Content |
+|---|---|
+| [`projects/proveedores`](projects/proveedores) | Public supplier development initiatives in 33 Latin American and Caribbean countries (ECLAC, 2026): protocols, data, validation and coverage tables |
+
+## Reproducing
+
+```
+pip install pandas openpyxl pyyaml pytest
+python run_all.py   # rebuilds every project from its source files and checks the outputs
+pytest              # synthetic tests of the shared tools and checks of quoted values
+```
 
 ## Reference
 

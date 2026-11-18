@@ -1,0 +1,7 @@
+dimension,group,cells,share_answered,share_inferred,share_proxy_used,share_partial_answer,share_not_found_after_search,share_not_applicable,share_conflict_unresolved
+subregion,Caribbean,2752,0.34,0.201,0.024,0.018,0.368,0.049,0.0
+subregion,Central America,2279,0.322,0.162,0.015,0.025,0.383,0.092,0.0
+subregion,South America,6364,0.281,0.173,0.041,0.02,0.434,0.051,0.0
+entity_level,Nacional,6364,0.335,0.195,0.018,0.018,0.376,0.058,0.0
+entity_level,Subnacional,5031,0.264,0.155,0.049,0.025,0.448,0.059,0.0
+total,all,11395,0.304,0.178,0.032,0.021,0.408,0.058,0.0
