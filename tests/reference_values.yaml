@@ -1,0 +1,69 @@
+# Values quoted in project texts. Each entry names the output file and cell it comes from.
+# Changing a value here is a decision: record it in docs/register/decision_log.md (old and new value).
+expected_files:
+  - projects/proveedores/data/derived/entities.csv
+  - projects/proveedores/data/derived/entities_stage1_rows.csv
+  - projects/proveedores/data/derived/records.csv
+  - projects/proveedores/data/derived/evidence.csv
+  - projects/proveedores/output/validation_summary.csv
+  - projects/proveedores/output/validation_findings.csv
+  - projects/proveedores/output/funnel_total.csv
+  - projects/proveedores/output/funnel_by_country.csv
+  - projects/proveedores/output/funnel_by_level.csv
+  - projects/proveedores/output/status_by_variable.csv
+  - projects/proveedores/output/status_by_group.csv
+  - projects/proveedores/output/source_types.csv
+  - projects/proveedores/output/diagnostics.csv
+values:
+  prov_entities: {file: projects/proveedores/output/funnel_total.csv, column: entities, value: 1102}
+  prov_entities_national: {file: projects/proveedores/output/funnel_total.csv, column: national, value: 251}
+  prov_entities_subnational: {file: projects/proveedores/output/funnel_total.csv, column: subnational, value: 851}
+  prov_entities_with_candidate: {file: projects/proveedores/output/funnel_total.csv, column: entities_with_candidate, value: 235}
+  prov_stage1_candidates: {file: projects/proveedores/output/funnel_total.csv, column: stage1_candidates, value: 341}
+  prov_entities_with_initiative: {file: projects/proveedores/output/funnel_total.csv, column: entities_with_initiative, value: 190}
+  prov_positive_without_initiative: {file: projects/proveedores/output/funnel_total.csv, column: positive_entities_without_initiative, value: 45}
+  prov_initiatives: {file: projects/proveedores/output/funnel_total.csv, column: initiatives, value: 265}
+  prov_dropped: {file: projects/proveedores/output/funnel_total.csv, column: candidates_dropped_in_review, value: 76}
+  prov_pry_candidates: {file: projects/proveedores/output/funnel_by_country.csv, row: {iso3: PRY}, column: stage1_candidates, value: 31}
+  prov_pry_initiatives: {file: projects/proveedores/output/funnel_by_country.csv, row: {iso3: PRY}, column: initiatives, value: 8}
+  prov_budget_not_found: {file: projects/proveedores/output/status_by_variable.csv, row: {variable: presupuesto}, column: share_not_found_after_search, value: 0.762}
+  prov_evidence_rows: {file: projects/proveedores/output/diagnostics.csv, row: {diagnostic: evidence_rows}, column: value, value: 6242}
+  prov_shared_cells: {file: projects/proveedores/output/diagnostics.csv, row: {diagnostic: cells_only_shared_quotes}, column: value, value: 731}
+  prov_edition_not_proxy: {file: projects/proveedores/output/diagnostics.csv, row: {diagnostic: edition_cells_only_shared_quotes_not_proxy}, column: value, value: 150}
+  prov_edition_proxy: {file: projects/proveedores/output/diagnostics.csv, row: {diagnostic: edition_cells_only_shared_quotes_proxy_used}, column: value, value: 188}
+  prov_short_quotes: {file: projects/proveedores/output/diagnostics.csv, row: {diagnostic: quotes_three_words_or_fewer}, column: value, value: 512}
+  prov_gov_share: {file: projects/proveedores/output/source_types.csv, row: {source_type: government_or_public_agency}, column: share_rows, value: 0.739}
+  prov_multi_share_caribbean: {file: projects/proveedores/output/source_types.csv, row: {source_type: multilateral_or_cooperation}, column: share_rows_Caribbean, value: 0.287}
+  prov_multi_share_southam: {file: projects/proveedores/output/source_types.csv, row: {source_type: multilateral_or_cooperation}, column: share_rows_South America, value: 0.049}
+  prov_national_candidates: {file: projects/proveedores/output/funnel_by_level.csv, row: {entidad_nivel: Nacional}, column: stage1_candidates, value: 187}
+  prov_subnational_candidates: {file: projects/proveedores/output/funnel_by_level.csv, row: {entidad_nivel: Subnacional}, column: stage1_candidates, value: 154}
+  prov_national_initiatives: {file: projects/proveedores/output/funnel_by_level.csv, row: {entidad_nivel: Nacional}, column: initiatives, value: 148}
+  prov_subnational_initiatives: {file: projects/proveedores/output/funnel_by_level.csv, row: {entidad_nivel: Subnacional}, column: initiatives, value: 117}
+  prov_national_per100: {file: projects/proveedores/output/funnel_by_level.csv, row: {entidad_nivel: Nacional}, column: initiatives_per_100_entities, value: 59.0}
+  prov_subnational_per100: {file: projects/proveedores/output/funnel_by_level.csv, row: {entidad_nivel: Subnacional}, column: initiatives_per_100_entities, value: 13.7}
+  prov_gtm_candidates: {file: projects/proveedores/output/funnel_by_country.csv, row: {iso3: GTM}, column: stage1_candidates, value: 6}
+  prov_hnd_candidates: {file: projects/proveedores/output/funnel_by_country.csv, row: {iso3: HND}, column: stage1_candidates, value: 5}
+  prov_arg_dropped: {file: projects/proveedores/output/funnel_by_country.csv, row: {iso3: ARG}, column: candidates_dropped_in_review, value: 12}
+  prov_cells: {file: projects/proveedores/output/status_by_group.csv, row: {group: all}, column: cells, value: 11395}
+  prov_share_answered: {file: projects/proveedores/output/status_by_group.csv, row: {group: all}, column: share_answered, value: 0.304}
+  prov_share_inferred: {file: projects/proveedores/output/status_by_group.csv, row: {group: all}, column: share_inferred, value: 0.178}
+  prov_share_notfound: {file: projects/proveedores/output/status_by_group.csv, row: {group: all}, column: share_not_found_after_search, value: 0.408}
+  prov_notfound_carib: {file: projects/proveedores/output/status_by_group.csv, row: {group: Caribbean}, column: share_not_found_after_search, value: 0.368}
+  prov_notfound_centam: {file: projects/proveedores/output/status_by_group.csv, row: {group: Central America}, column: share_not_found_after_search, value: 0.383}
+  prov_notfound_southam: {file: projects/proveedores/output/status_by_group.csv, row: {group: South America}, column: share_not_found_after_search, value: 0.434}
+  prov_notfound_national: {file: projects/proveedores/output/status_by_group.csv, row: {group: Nacional}, column: share_not_found_after_search, value: 0.376}
+  prov_notfound_subnational: {file: projects/proveedores/output/status_by_group.csv, row: {group: Subnacional}, column: share_not_found_after_search, value: 0.448}
+  prov_eval_not_found: {file: projects/proveedores/output/status_by_variable.csv, row: {variable: evaluacion}, column: share_not_found_after_search, value: 0.849}
+  prov_vigencia_not_found: {file: projects/proveedores/output/status_by_variable.csv, row: {variable: vigencia}, column: share_not_found_after_search, value: 0.223}
+  prov_subsidio_not_found: {file: projects/proveedores/output/status_by_variable.csv, row: {variable: subsidio}, column: share_not_found_after_search, value: 0.675}
+  prov_reglamento_not_found: {file: projects/proveedores/output/status_by_variable.csv, row: {variable: reglamento}, column: share_not_found_after_search, value: 0.528}
+  prov_tipo_inferred: {file: projects/proveedores/output/status_by_variable.csv, row: {variable: tipo_programa}, column: share_inferred, value: 0.774}
+  prov_nivel_inferred: {file: projects/proveedores/output/status_by_variable.csv, row: {variable: nivel_programa}, column: share_inferred, value: 0.811}
+  prov_mecanismo_inferred: {file: projects/proveedores/output/status_by_variable.csv, row: {variable: mecanismo_vinculacion}, column: share_inferred, value: 0.785}
+  prov_multi_share: {file: projects/proveedores/output/source_types.csv, row: {source_type: multilateral_or_cooperation}, column: share_rows, value: 0.140}
+  prov_multi_share_centam: {file: projects/proveedores/output/source_types.csv, row: {source_type: multilateral_or_cooperation}, column: share_rows_Central America, value: 0.182}
+  prov_press_share: {file: projects/proveedores/output/source_types.csv, row: {source_type: press}, column: share_rows, value: 0.017}
+  prov_uncertain_share: {file: projects/proveedores/output/source_types.csv, row: {source_type: uncertain}, column: share_rows, value: 0.034}
+  prov_source_date_missing: {file: projects/proveedores/output/diagnostics.csv, row: {diagnostic: source_date_missing_share}, column: value, value: 0.25}
+  prov_parents_named: {file: projects/proveedores/output/diagnostics.csv, row: {diagnostic: initiatives_parent_named}, column: value, value: 107}
+  prov_parents_distinct: {file: projects/proveedores/output/diagnostics.csv, row: {diagnostic: distinct_parent_programmes}, column: value, value: 78}

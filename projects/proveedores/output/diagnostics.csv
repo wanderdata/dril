@@ -1,0 +1,16 @@
+diagnostic,value,definition
+evidence_rows,6242.0,Stage 2 evidence rows
+distinct_source_urls,475.0,
+distinct_source_domains,261.0,
+quotes_shared_across_initiatives,105.0,distinct quote strings cited for more than one initiative
+cells_only_shared_quotes,731.0,substantive cells whose every evidence row uses a quote also cited for another initiative
+edition_cells_only_shared_quotes,338.0,"same, for initiatives coded as editions of a parent programme (nivel_programa = 4)"
+edition_cells_only_shared_quotes_proxy_used,188.0,"of which marked proxy_used, as protocol section 13 requires for parent-programme information"
+edition_cells_only_shared_quotes_not_proxy,150.0,"of which marked answered, inferred or partial_answer"
+quotes_three_words_or_fewer,512.0,evidence rows whose quote has at most three words
+median_quote_words,15.0,
+source_date_missing_share,0.25,share of evidence rows with source_date = -99
+budget_without_currency,2.0,presupuesto given but p_moneda = -99
+initiatives_parent_named,107.0,initiatives with a named parent programme
+distinct_parent_programmes,78.0,
+largest_parent_family,9.0,initiatives sharing the most common parent programme

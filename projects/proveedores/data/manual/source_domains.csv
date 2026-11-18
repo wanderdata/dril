@@ -1,0 +1,111 @@
+source_domain,source_type,note
+documents1.worldbank.org,multilateral_or_cooperation,World Bank
+worldbank.org,multilateral_or_cooperation,World Bank
+fao.org,multilateral_or_cooperation,FAO
+faolex.fao.org,multilateral_or_cooperation,FAO
+undp.org,multilateral_or_cooperation,UNDP
+mptf.undp.org,multilateral_or_cooperation,UNDP
+erc.undp.org,multilateral_or_cooperation,UNDP
+ifad.org,multilateral_or_cooperation,IFAD
+ioe.ifad.org,multilateral_or_cooperation,IFAD
+webapps.ifad.org,multilateral_or_cooperation,IFAD
+caribank.org,multilateral_or_cooperation,Caribbean Development Bank
+iadb.org,multilateral_or_cooperation,IDB
+publications.iadb.org,multilateral_or_cooperation,IDB
+thecommonwealth.org,multilateral_or_cooperation,Commonwealth Secretariat
+pressroom.oecs.int,multilateral_or_cooperation,OECS
+oecs.int,multilateral_or_cooperation,OECS
+standardsfacility.org,multilateral_or_cooperation,Standards and Trade Development Facility (WTO)
+oie.sieca.int,multilateral_or_cooperation,SIECA
+sice.oas.org,multilateral_or_cooperation,OAS
+wto.org,multilateral_or_cooperation,WTO
+wtofishfund.org,multilateral_or_cooperation,WTO Fish Fund
+trade4devnews.enhancedif.org,multilateral_or_cooperation,Enhanced Integrated Framework
+enhancedif.org,multilateral_or_cooperation,Enhanced Integrated Framework
+unido.org,multilateral_or_cooperation,UNIDO
+thegef.org,multilateral_or_cooperation,Global Environment Facility
+competecaribbean.org,multilateral_or_cooperation,Compete Caribbean (IDB-funded programme)
+icdf.org.tw,multilateral_or_cooperation,Taiwan ICDF (bilateral cooperation)
+dobusinessjamaica.com,government_or_public_agency,JAMPRO (Jamaica)
+exportt.co.tt,government_or_public_agency,exporTT (Trinidad and Tobago)
+bahamasdevelopmentbank.com,government_or_public_agency,Bahamas Development Bank
+apexbrasil.com.br,government_or_public_agency,ApexBrasil
+minmineria.cl,government_or_public_agency,Ministry of Mining (Chile)
+ande.org.uy,government_or_public_agency,Agencia Nacional de Desarrollo (Uruguay)
+api.abdi.com.br,government_or_public_agency,ABDI (Brazil)
+abdi.com.br,government_or_public_agency,ABDI (Brazil)
+jbdc.net,government_or_public_agency,Jamaica Business Development Corporation
+sercotec.cl,government_or_public_agency,Sercotec (Chile)
+agenciasebrae.com.br,government_or_public_agency,Sebrae (para-statal Sistema S)
+contato.sebraesp.com.br,government_or_public_agency,Sebrae (para-statal Sistema S)
+meuatendimento.sebrae.com.br,government_or_public_agency,Sebrae (para-statal Sistema S)
+ce.agenciasebrae.com.br,government_or_public_agency,Sebrae (para-statal Sistema S)
+to.agenciasebrae.com.br,government_or_public_agency,Sebrae (para-statal Sistema S)
+es.agenciasebrae.com.br,government_or_public_agency,Sebrae (para-statal Sistema S)
+conquito.org.ec,government_or_public_agency,ConQuito (Quito municipal agency)
+embrapii.org.br,government_or_public_agency,Embrapii (social organisation under federal contract)
+desarrollodeproveedores-ags.mx,government_or_public_agency,Aguascalientes state supplier programme site (assumed)
+innpulsacolombia.com,government_or_public_agency,iNNpulsa Colombia
+documentos.cofide.com.pe,government_or_public_agency,COFIDE (Peru state development bank)
+gobiernosantiago.cl,government_or_public_agency,Gobierno Regional Metropolitano de Santiago
+goredenuble.cl,government_or_public_agency,Gobierno Regional de Ñuble
+procomer.com,government_or_public_agency,PROCOMER (Costa Rica)
+ssb.sr,government_or_public_agency,Suriname Standards Bureau
+pronicaragua.org,government_or_public_agency,ProNicaragua
+cfn.fin.ec,government_or_public_agency,Corporación Financiera Nacional (Ecuador)
+fdihaiti.ht,government_or_public_agency,Fonds de Développement Industriel (Haiti)
+exportsaintlucia.org,government_or_public_agency,Export Saint Lucia
+beltraide.bz,government_or_public_agency,BELTRAIDE (Belize)
+cfi.org.ar,government_or_public_agency,Consejo Federal de Inversiones (Argentina)
+investstlucia.com,government_or_public_agency,Invest Saint Lucia
+wapp4.corfo.cl,government_or_public_agency,CORFO (Chile)
+finance.gd,government_or_public_agency,Ministry of Finance (Grenada)
+newsroom.gy,government_or_public_agency,Department of Public Information (Guyana)
+surinamecompete.org,government_or_public_agency,Suriname Competitiveness programme (assumed government-run)
+agencia.petrobras.com.br,state_owned_enterprise,Petrobras
+codelco.com,state_owned_enterprise,Codelco
+brou.com.uy,state_owned_enterprise,Banco República (Uruguay)
+aird.org.do,business_association_or_private,Asociación de Industrias de la República Dominicana
+prodfor.com.br,business_association_or_private,PRODFOR (Espírito Santo industry-led programme)
+clusterfundicion.mx,business_association_or_private,foundry cluster association
+chtamarketplace.com,business_association_or_private,Caribbean Hotel and Tourism Association
+fepc.bo,business_association_or_private,Federación de Empresarios Privados de Cochabamba
+camaracuba.cu,business_association_or_private,Cámara de Comercio de Cuba
+adozona.org,business_association_or_private,Asociación Dominicana de Zonas Francas
+ciip.com.ve,business_association_or_private,industry chamber (Venezuela)
+parqueindustrialburzaco.com,business_association_or_private,industrial park
+suppliers.investincr.com,business_association_or_private,CINDE (private non-profit investment promotion)
+investincr.com,business_association_or_private,CINDE (private non-profit investment promotion)
+fexco.com.bo,business_association_or_private,trade fair organiser (Cochabamba)
+accessaccelerator.org,ngo,Access Accelerator (donor-funded MSME programme)
+acdivoca.org,ngo,ACDI/VOCA
+wwflac.awsassets.panda.org,ngo,WWF
+fisheryprogress.org,ngo,FisheryProgress
+cipca.org.bo,ngo,CIPCA (Bolivia)
+uptc.edu.co,academic,Universidad Pedagógica y Tecnológica de Colombia
+noticias.unphu.edu.do,academic,UNPHU (Dominican Republic)
+repositorio.conare.ac.cr,academic,CONARE (Costa Rica)
+diariodocomercio.com.br,press,newspaper
+revistafactordeexito.com,press,magazine
+diariodecuyo.com.ar,press,newspaper
+lavozbolivia.com,press,newspaper
+guyanachronicle.com,press,state-owned newspaper
+realidades.com.do,press,news site
+mundoacuicola.cl,press,trade press
+our.today,press,news site
+opinion.com.bo,press,newspaper
+lavozdelprm.org,press,news site (assumed)
+instagram.com,social_media_or_directory,social media
+bahamaslocal.com,social_media_or_directory,business directory
+competitividadcba.org,uncertain,possibly Córdoba competitiveness agency
+thinkbigee.com,uncertain,not identified
+ascc.cl,uncertain,not identified
+sita.sr,uncertain,not identified
+elproa.cl,uncertain,not identified
+impulsamendoza.com.ar,uncertain,possibly Mendoza provincial programme
+ceccav.com,uncertain,not identified
+exportemos.pe,uncertain,not identified
+surge.sr,uncertain,not identified
+pefssp.org,uncertain,not identified
+aifem.com.ve,uncertain,not identified
+propanamaconecta.com,uncertain,not identified

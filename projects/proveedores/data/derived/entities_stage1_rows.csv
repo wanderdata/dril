@@ -1,0 +1,1209 @@
+row,entity_id,entidad_input,pais,entidad_nivel,tipo_entidad,existe_programa_proveeduria,iso3
+1,E01_ATG,Antigua and Barbuda Investment Authority (ABIA),Antigua y Barbuda,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,ATG
+2,E02_ATG,Central Marketing Corporation,Antigua y Barbuda,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,ATG
+3,E03_ATG,"Ministry of Finance, Corporate Governance & Public Private Partnerships",Antigua y Barbuda,Nacional,Ministerio,0,ATG
+4,E04_ATG,"Ministry of Foreign Affairs, Trade & Immigration",Antigua y Barbuda,Nacional,Ministerio,0,ATG
+5,E05_ATG,"Ministry of Agriculture, Lands & the Blue Economy",Antigua y Barbuda,Nacional,Ministerio,0,ATG
+6,E06_ATG,"Ministry of Tourism, Civil Aviation, Transportation & Investments",Antigua y Barbuda,Nacional,Ministerio,1,ATG
+7,E07_ATG,Entrepreneurial Development Programme (EDP),Antigua y Barbuda,Nacional,Programa/red/plataforma de apoyo,0,ATG
+8,E08_ATG,Saint George Parish Council,Antigua y Barbuda,Subnacional,Gobierno de primera división administrativa,0,ATG
+9,E09_ATG,Saint John Parish Council,Antigua y Barbuda,Subnacional,Gobierno de primera división administrativa,0,ATG
+10,E10_ATG,Saint Mary Parish Council,Antigua y Barbuda,Subnacional,Gobierno de primera división administrativa,0,ATG
+11,E11_ATG,Saint Paul Parish Council,Antigua y Barbuda,Subnacional,Gobierno de primera división administrativa,0,ATG
+12,E12_ATG,Saint Peter Parish Council,Antigua y Barbuda,Subnacional,Gobierno de primera división administrativa,0,ATG
+13,E13_ATG,Saint Philip Parish Council,Antigua y Barbuda,Subnacional,Gobierno de primera división administrativa,0,ATG
+14,E14_ATG,St. John's,Antigua y Barbuda,Subnacional,Gobierno local (división administrativa menor),0,ATG
+15,E15_ATG,Fitches Creek,Antigua y Barbuda,Subnacional,Gobierno local (división administrativa menor),0,ATG
+16,E16_ATG,English Harbour,Antigua y Barbuda,Subnacional,Gobierno local (división administrativa menor),0,ATG
+17,E17_ATG,Bolans,Antigua y Barbuda,Subnacional,Gobierno local (división administrativa menor),0,ATG
+18,E18_ATG,Parham,Antigua y Barbuda,Subnacional,Gobierno local (división administrativa menor),0,ATG
+19,E19_ATG,Carlisle,Antigua y Barbuda,Subnacional,Gobierno local (división administrativa menor),0,ATG
+20,E20_ATG,Codrington,Antigua y Barbuda,Subnacional,Gobierno local (división administrativa menor),0,ATG
+21,E01_ARG,Agencia Argentina de Inversiones y Comercio Internacional,Argentina,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,ARG
+22,E02_ARG,Banco de Inversión y Comercio Exterior (BICE),Argentina,Nacional,Banco o institución financiera pública,1,ARG
+23,E03_ARG,Instituto Nacional de Tecnología Industrial (INTI),Argentina,Nacional,Instituto/servicio técnico,1,ARG
+24,E04_ARG,Instituto Nacional de Tecnología Agropecuaria (INTA),Argentina,Nacional,Instituto/servicio técnico,0,ARG
+25,E05_ARG,"Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación",Argentina,Nacional,Instituto/servicio técnico,1,ARG
+26,E06_ARG,Consejo Federal de Inversiones (CFI),Argentina,Nacional,Otra entidad pública nacional,1,ARG
+27,E07_ARG,Oficina Nacional de Contrataciones,Argentina,Nacional,Otra entidad pública nacional,0,ARG
+28,E08_ARG,Secretaría de Industria y Comercio,Argentina,Nacional,Secretaría/subsecretaría nacional,1,ARG
+29,E09_ARG,"Secretaría de la Pequeña y Mediana Empresa, Emprendedores y Economía del Conocimiento",Argentina,Nacional,Secretaría/subsecretaría nacional,0,ARG
+30,E10_ARG,Gobierno de la Provincia de Buenos Aires,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+31,E10_ARG,Gobierno de la Provincia de Buenos Aires,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+32,E10_ARG,Gobierno de la Provincia de Buenos Aires,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+33,E10_ARG,Gobierno de la Provincia de Buenos Aires,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+34,E11_ARG,Gobierno de la Provincia de Catamarca,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+35,E12_ARG,Gobierno de la Provincia de Chaco,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+36,E13_ARG,Gobierno de la Provincia de Chubut,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+37,E14_ARG,Gobierno de la Provincia de Corrientes,Argentina,Subnacional,Gobierno de primera división administrativa,0,ARG
+38,E15_ARG,Gobierno de la Provincia de Córdoba,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+39,E15_ARG,Gobierno de la Provincia de Córdoba,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+40,E16_ARG,Gobierno de la Provincia de Entre Ríos,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+41,E17_ARG,Gobierno de la Provincia de Formosa,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+42,E18_ARG,Gobierno de la Provincia de Jujuy,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+43,E19_ARG,Gobierno de la Provincia de La Pampa,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+44,E20_ARG,Gobierno de la Provincia de La Rioja,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+45,E21_ARG,Gobierno de la Provincia de Mendoza,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+46,E22_ARG,Gobierno de la Provincia de Misiones,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+47,E23_ARG,Gobierno de la Provincia de Neuquén,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+48,E24_ARG,Gobierno de la Provincia de Río Negro,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+49,E25_ARG,Gobierno de la Provincia de Salta,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+50,E26_ARG,Gobierno de la Provincia de San Juan,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+51,E27_ARG,Gobierno de la Provincia de San Luis,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+52,E28_ARG,Gobierno de la Provincia de Santa Cruz,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+53,E28_ARG,Gobierno de la Provincia de Santa Cruz,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+54,E29_ARG,Gobierno de la Provincia de Santa Fe,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+55,E29_ARG,Gobierno de la Provincia de Santa Fe,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+56,E29_ARG,Gobierno de la Provincia de Santa Fe,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+57,E29_ARG,Gobierno de la Provincia de Santa Fe,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+58,E30_ARG,Gobierno de la Provincia de Santiago del Estero,Argentina,Subnacional,Gobierno de primera división administrativa,0,ARG
+59,E31_ARG,Gobierno de la Provincia de Tierra del Fuego,Argentina,Subnacional,Gobierno de primera división administrativa,1,ARG
+60,E32_ARG,Gobierno de la Provincia de Tucumán,Argentina,Subnacional,Gobierno de primera división administrativa,0,ARG
+61,E33_ARG,Gobierno de la Ciudad de Buenos Aires,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+62,E33_ARG,Gobierno de la Ciudad de Buenos Aires,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+63,E43_ARG,Gobierno de la Ciudad Autónoma de Buenos Aires,Argentina,Subnacional,Gobierno municipal/local,1,ARG
+64,E43_ARG,Gobierno de la Ciudad Autónoma de Buenos Aires,Argentina,Subnacional,Gobierno municipal/local,1,ARG
+65,E34_ARG,Municipalidad de San Justo,Argentina,Subnacional,Gobierno local (división administrativa menor),0,ARG
+66,E35_ARG,Municipalidad de Rosario,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+67,E36_ARG,Municipio de Morón,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+68,E37_ARG,Municipalidad San Miguel,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+69,E38_ARG,Gobierno de Córdoba,Argentina,Subnacional,Gobierno local (división administrativa menor),0,ARG
+70,E39_ARG,Municipio de Avellaneda,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+71,E40_ARG,Municipio de Lomas de Zamora,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+72,E41_ARG,Municipio de Almirante Brown,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+73,E42_ARG,Gobierno de la Ciudad de Santa Fe,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+74,E42_ARG,Gobierno de la Ciudad de Santa Fe,Argentina,Subnacional,Gobierno local (división administrativa menor),1,ARG
+75,E44_ARG,"Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires",Argentina,Subnacional,Instituto/servicio técnico,1,ARG
+76,E44_ARG,"Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires",Argentina,Subnacional,Instituto/servicio técnico,1,ARG
+77,E44_ARG,"Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires",Argentina,Subnacional,Instituto/servicio técnico,1,ARG
+78,E44_ARG,"Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires",Argentina,Subnacional,Instituto/servicio técnico,1,ARG
+79,E45_ARG,"Ministerio de Producción, Ciencia e Innovación Tecnológica de Córdoba",Argentina,Subnacional,Instituto/servicio técnico,1,ARG
+80,E45_ARG,"Ministerio de Producción, Ciencia e Innovación Tecnológica de Córdoba",Argentina,Subnacional,Instituto/servicio técnico,1,ARG
+81,E46_ARG,Ministerio de Desarrollo Productivo de Santa Fe,Argentina,Subnacional,Secretaría/ministerio subnacional,1,ARG
+82,E46_ARG,Ministerio de Desarrollo Productivo de Santa Fe,Argentina,Subnacional,Secretaría/ministerio subnacional,1,ARG
+83,E46_ARG,Ministerio de Desarrollo Productivo de Santa Fe,Argentina,Subnacional,Secretaría/ministerio subnacional,1,ARG
+84,E46_ARG,Ministerio de Desarrollo Productivo de Santa Fe,Argentina,Subnacional,Secretaría/ministerio subnacional,1,ARG
+85,E47_ARG,Ministerio de Producción de Mendoza,Argentina,Subnacional,Secretaría/ministerio subnacional,0,ARG
+86,E01_BHS,Bahamas Investment Authority,Bahamas,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,BHS
+87,E02_BHS,Bahamas Agricultural and Industrial Corporation (BAIC),Bahamas,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,BHS
+88,E03_BHS,Bahamas Development Bank,Bahamas,Nacional,Banco o institución financiera pública,1,BHS
+89,E03_BHS,Bahamas Development Bank,Bahamas,Nacional,Banco o institución financiera pública,1,BHS
+90,E03_BHS,Bahamas Development Bank,Bahamas,Nacional,Banco o institución financiera pública,1,BHS
+91,E04_BHS,eProcurement and Suppliers Registry System,Bahamas,Nacional,Entidad de compras públicas/abastecimiento,0,BHS
+92,E05_BHS,Ministry of Economic Affairs,Bahamas,Nacional,Ministerio,0,BHS
+93,E06_BHS,Ministry of Agriculture and Marine Resources,Bahamas,Nacional,Ministerio,0,BHS
+94,E07_BHS,Ministry of Energy and Transport,Bahamas,Nacional,Ministerio,1,BHS
+95,E08_BHS,"Ministry Tourism, Investments and Aviation",Bahamas,Nacional,Ministerio,1,BHS
+96,E09_BHS,Ministry of Foreign Affairs,Bahamas,Nacional,Ministerio,0,BHS
+97,E10_BHS,Access Accelerator / Small Business Development Centre Bahamas,Bahamas,Nacional,Otra entidad pública nacional,1,BHS
+98,E10_BHS,Access Accelerator / Small Business Development Centre Bahamas,Bahamas,Nacional,Otra entidad pública nacional,1,BHS
+99,E10_BHS,Access Accelerator / Small Business Development Centre Bahamas,Bahamas,Nacional,Otra entidad pública nacional,1,BHS
+100,E11_BHS,Acklins District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+101,E12_BHS,Berry Islands District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+102,E13_BHS,Bimini District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+103,E14_BHS,Black Point District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+104,E15_BHS,Cat Island District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+105,E16_BHS,Central Abaco District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+106,E17_BHS,Central Andros District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+107,E18_BHS,Central Eleuthera District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+108,E19_BHS,Crooked Island and Long Cay District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+109,E20_BHS,East Grand Bahama District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+110,E21_BHS,Exuma District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+111,E22_BHS,Grand Cay District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+112,E23_BHS,Harbour Island District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+113,E24_BHS,Hope Town District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+114,E25_BHS,Inagua District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+115,E26_BHS,Long Island District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+116,E27_BHS,Mangrove Cay District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+117,E28_BHS,Mayaguana District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+118,E29_BHS,Moore's Island District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+119,E30_BHS,New Providence Island,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+120,E31_BHS,North Abaco District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+121,E32_BHS,North Andros District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+122,E33_BHS,North Eleuthera District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+123,E34_BHS,Ragged Island District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+124,E35_BHS,Rum Cay District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+125,E36_BHS,San Salvador District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+126,E37_BHS,South Abaco District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+127,E38_BHS,South Andros District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+128,E39_BHS,South Eleuthera District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+129,E40_BHS,Spanish Wells District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+130,E41_BHS,West Grand Bahama District,Bahamas,Subnacional,Gobierno de primera división administrativa,0,BHS
+131,E42_BHS,City of Freeport District,Bahamas,Subnacional,Gobierno municipal/local,0,BHS
+132,E01_BRB,Export Barbados / Barbados Investment and Development Corporation (BIDC),Barbados,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,BRB
+133,E02_BRB,Invest Barbados,Barbados,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,BRB
+134,E03_BRB,Barbados Public Procurement Department,Barbados,Nacional,Entidad de compras públicas/abastecimiento,0,BRB
+135,E04_BRB,Ministry of Energy and Business Development,Barbados,Nacional,Ministerio,1,BRB
+136,E05_BRB,Ministry of Foreign Affairs and Foreign Trade,Barbados,Nacional,Ministerio,0,BRB
+137,E06_BRB,"Ministry of Industry, Innovation, Science and Technology",Barbados,Nacional,Ministerio,0,BRB
+138,E07_BRB,FundAccess,Barbados,Nacional,Otra entidad pública nacional,0,BRB
+139,E08_BRB,Barbados Trust Fund Limited,Barbados,Nacional,Otra entidad pública nacional,0,BRB
+140,E09_BRB,Barbados Competitiveness Programme,Barbados,Nacional,Secretaría/subsecretaría nacional,0,BRB
+141,E10_BRB,Small Business Development Unit,Barbados,Nacional,Secretaría/subsecretaría nacional,0,BRB
+142,E11_BRB,Christ Church Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+143,E12_BRB,Saint Andrew Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+144,E13_BRB,Saint George Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+145,E14_BRB,Saint James Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+146,E15_BRB,Saint John Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+147,E16_BRB,Saint Joseph Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+148,E17_BRB,Saint Lucy Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+149,E18_BRB,Saint Michael Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+150,E19_BRB,Saint Peter Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+151,E20_BRB,Saint Philip Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+152,E21_BRB,Saint Thomas Parish,Barbados,Subnacional,Gobierno de primera división administrativa,0,BRB
+153,E22_BRB,Bridgetown,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+154,E23_BRB,Crane,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+155,E24_BRB,Oistins,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+156,E25_BRB,Holetown,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+157,E26_BRB,Welchman Hall,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+158,E27_BRB,The Glebe,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+159,E28_BRB,Speightstown,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+160,E29_BRB,Four Roads,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+161,E30_BRB,Checker Hall,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+162,E31_BRB,Greenland,Barbados,Subnacional,Gobierno local (división administrativa menor),0,BRB
+163,E01_BLZ,BELTRAIDE - Belize Trade and Investment Development Service,Belice,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,BLZ
+164,E01_BLZ,BELTRAIDE - Belize Trade and Investment Development Service,Belice,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,BLZ
+165,E02_BLZ,EXPORTBelize,Belice,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,BLZ
+166,E03_BLZ,Development Finance Corporation (DFC),Belice,Nacional,Banco o institución financiera pública,0,BLZ
+167,E04_BLZ,Supplies Control Unit / Government Procurement,Belice,Nacional,Entidad de compras públicas/abastecimiento,0,BLZ
+168,E05_BLZ,Ministry of Economic Transformation,Belice,Nacional,Ministerio,1,BLZ
+169,E05_BLZ,Ministry of Economic Transformation,Belice,Nacional,Ministerio,1,BLZ
+170,E06_BLZ,"Ministry of Foreign Affairs, Foreign Trade, & Culture",Belice,Nacional,Ministerio,0,BLZ
+171,E07_BLZ,"Ministry of Agriculture, Food Security & New Growth Industries",Belice,Nacional,Ministerio,1,BLZ
+172,E08_BLZ,SBDCBelize,Belice,Nacional,Programa/red/plataforma de apoyo,0,BLZ
+173,E09_BLZ,Belize District,Belice,Subnacional,Gobierno de primera división administrativa,0,BLZ
+174,E10_BLZ,Cayo District,Belice,Subnacional,Gobierno de primera división administrativa,0,BLZ
+175,E11_BLZ,Corozal District,Belice,Subnacional,Gobierno de primera división administrativa,0,BLZ
+176,E12_BLZ,Orange Walk District,Belice,Subnacional,Gobierno de primera división administrativa,0,BLZ
+177,E13_BLZ,Stann Creek District,Belice,Subnacional,Gobierno de primera división administrativa,0,BLZ
+178,E14_BLZ,Toledo District,Belice,Subnacional,Gobierno de primera división administrativa,0,BLZ
+179,E15_BLZ,San Ignacio,Belice,Subnacional,Gobierno local (división administrativa menor),0,BLZ
+180,E16_BLZ,Corozal Town,Belice,Subnacional,Gobierno local (división administrativa menor),0,BLZ
+181,E17_BLZ,Belize City,Belice,Subnacional,Gobierno local (división administrativa menor),0,BLZ
+182,E18_BLZ,Orange Walk Town,Belice,Subnacional,Gobierno local (división administrativa menor),0,BLZ
+183,E19_BLZ,Punta Gorda,Belice,Subnacional,Gobierno local (división administrativa menor),0,BLZ
+184,E20_BLZ,Dangriga,Belice,Subnacional,Gobierno local (división administrativa menor),0,BLZ
+185,E01_BOL,Servicio de Desarrollo de las Empresas Públicas Productivas (SEDEM),Bolivia,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,BOL
+186,E02_BOL,Banco de Desarrollo Productivo (BDP),Bolivia,Nacional,Banco o institución financiera pública,0,BOL
+187,E03_BOL,"Ministerio de Desarrollo Productivo, Rural y Agua",Bolivia,Nacional,Ministerio,1,BOL
+188,E04_BOL,Ministerio de Hidrocarburos y Energías,Bolivia,Nacional,Ministerio,0,BOL
+189,E05_BOL,Ministerio de Minería y Metalurgia,Bolivia,Nacional,Ministerio,0,BOL
+190,E06_BOL,Ministerio de Planificación del Desarrollo y Medio Ambiente,Bolivia,Nacional,Ministerio,0,BOL
+191,E07_BOL,PRO-BOLIVIA,Bolivia,Nacional,Otra entidad pública nacional,1,BOL
+192,E08_BOL,Insumos Bolivia,Bolivia,Nacional,Otra entidad pública nacional,0,BOL
+193,E09_BOL,"Viceministerio de la Micro, Pequeña Empresa y Artesanía",Bolivia,Nacional,Secretaría/subsecretaría nacional,0,BOL
+194,E10_BOL,Gobernación de Cochabamba - Desarrollo Productivo,Bolivia,Subnacional,"Agencia/entidad de desarrollo, inversión o comercio",1,BOL
+195,E11_BOL,Gobierno Autónomo Departamental de Chuquisaca,Bolivia,Subnacional,Gobierno de primera división administrativa,0,BOL
+196,E12_BOL,Gobierno Autónomo Departamental de Cochabamba,Bolivia,Subnacional,Gobierno de primera división administrativa,0,BOL
+197,E13_BOL,Gobierno Autónomo Departamental de El Beni,Bolivia,Subnacional,Gobierno de primera división administrativa,0,BOL
+198,E14_BOL,Gobierno Autónomo Departamental de La Paz,Bolivia,Subnacional,Gobierno de primera división administrativa,0,BOL
+199,E15_BOL,Gobierno Autónomo Departamental de Oruro,Bolivia,Subnacional,Gobierno de primera división administrativa,0,BOL
+200,E16_BOL,Gobierno Autónomo Departamental de Pando,Bolivia,Subnacional,Gobierno de primera división administrativa,1,BOL
+201,E17_BOL,Gobierno Autónomo Departamental de Potosí,Bolivia,Subnacional,Gobierno de primera división administrativa,0,BOL
+202,E18_BOL,Gobierno Autónomo Departamental de Santa Cruz,Bolivia,Subnacional,Gobierno de primera división administrativa,0,BOL
+203,E19_BOL,Gobierno Autónomo Departamental de Tarija,Bolivia,Subnacional,Gobierno de primera división administrativa,0,BOL
+204,E20_BOL,Gobernación de Santa Cruz de la Sierra,Bolivia,Subnacional,Gobierno local (división administrativa menor),0,BOL
+205,E21_BOL,Gobierno Autónomo Municipal de La Paz,Bolivia,Subnacional,Gobierno local (división administrativa menor),0,BOL
+206,E22_BOL,Gobierno Autónomo Municipal de Cochabamba,Bolivia,Subnacional,Gobierno local (división administrativa menor),1,BOL
+207,E23_BOL,Gobierno Autónomo Municipal de Quillacollo,Bolivia,Subnacional,Gobierno local (división administrativa menor),0,BOL
+208,E24_BOL,Gobierno Autónomo Municipal de Tarija,Bolivia,Subnacional,Gobierno local (división administrativa menor),0,BOL
+209,E25_BOL,Gobierno Autónomo Municipal de Oruro,Bolivia,Subnacional,Gobierno local (división administrativa menor),0,BOL
+210,E26_BOL,Gobierno Autónomo Municipal de Sucre,Bolivia,Subnacional,Gobierno local (división administrativa menor),0,BOL
+211,E27_BOL,Gobierno Autónomo Municipal de Sacaba,Bolivia,Subnacional,Gobierno local (división administrativa menor),1,BOL
+212,E28_BOL,Gobierno Autónomo Municipal de Warnes,Bolivia,Subnacional,Gobierno local (división administrativa menor),0,BOL
+213,E29_BOL,Gobierno Autónomo Municipal de Potosí,Bolivia,Subnacional,Gobierno local (división administrativa menor),0,BOL
+214,E30_BOL,Gobernación de Santa Cruz - Secretaría de Desarrollo Productivo,Bolivia,Subnacional,Secretaría/ministerio subnacional,0,BOL
+215,E01_BRA,Agência Brasileira de Desenvolvimento Industrial (ABDI),Brasil,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,BRA
+216,E02_BRA,Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil),Brasil,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,BRA
+217,E02_BRA,Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil),Brasil,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,BRA
+218,E03_BRA,Banco Nacional de Desenvolvimento Econômico e Social (BNDES),Brasil,Nacional,Banco o institución financiera pública,1,BRA
+219,E04_BRA,Empresa Brasileira de Pesquisa e Inovação Industrial (EMBRAPII),Brasil,Nacional,Instituto/servicio técnico,1,BRA
+220,E05_BRA,Ministério de Minas e Energia,Brasil,Nacional,Ministerio,1,BRA
+221,E06_BRA,"Ministério do Empreendorismo, da Microempresa e da Empresa de Pequeno Porte",Brasil,Nacional,Ministerio,0,BRA
+222,E07_BRA,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)",Brasil,Nacional,Ministerio,1,BRA
+223,E08_BRA,Financiadora de Estudos e Projetos (FINEP),Brasil,Nacional,Otra entidad pública nacional,1,BRA
+224,E09_BRA,Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE),Brasil,Nacional,Otra entidad pública nacional,1,BRA
+225,E09_BRA,Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE),Brasil,Nacional,Otra entidad pública nacional,1,BRA
+226,E09_BRA,Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE),Brasil,Nacional,Otra entidad pública nacional,1,BRA
+227,E09_BRA,Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE),Brasil,Nacional,Otra entidad pública nacional,1,BRA
+228,E09_BRA,Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE),Brasil,Nacional,Otra entidad pública nacional,1,BRA
+229,E09_BRA,Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE),Brasil,Nacional,Otra entidad pública nacional,1,BRA
+230,E09_BRA,Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (SEBRAE),Brasil,Nacional,Otra entidad pública nacional,1,BRA
+231,E10_BRA,Companhia Nacional de Abastecimento (CONAB),Brasil,Nacional,Otra entidad pública nacional,0,BRA
+232,E11_BRA,Secretaria da Microempresa e Empresa de Pequeno Porte e do Empreendedorismo,Brasil,Nacional,Secretaría/subsecretaría nacional,0,BRA
+233,E12_BRA,Agência de Desenvolvimento Paulista (Desenvolve SP),Brasil,Subnacional,Banco o institución financiera pública,0,BRA
+234,E13_BRA,Banco Regional de Desenvolvimento do Extremo Sul (BRDE),Brasil,Subnacional,Banco o institución financiera pública,0,BRA
+235,E14_BRA,Banco de Desenvolvimento de Minas Gerais (BDMG),Brasil,Subnacional,Banco o institución financiera pública,0,BRA
+236,E15_BRA,Governo do Estado de Acre,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+237,E16_BRA,Governo do Estado de Alagoas,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+238,E17_BRA,Governo do Estado de Amapá,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+239,E18_BRA,Governo do Estado de Amazonas,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+240,E19_BRA,Governo do Estado de Bahia,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+241,E20_BRA,Governo do Estado de Ceará,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+242,E21_BRA,Governo do Distrito Federal,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+243,E22_BRA,Governo do Estado de Espírito Santo,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+244,E23_BRA,Governo do Estado de Goiás,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+245,E24_BRA,Governo do Estado de Maranhão,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+246,E25_BRA,Governo do Estado de Mato Grosso,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+247,E26_BRA,Governo do Estado de Mato Grosso do Sul,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+248,E27_BRA,Governo do Estado de Minas Gerais,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+249,E28_BRA,Governo do Estado de Paraná,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+250,E29_BRA,Governo do Estado de Paraíba,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+251,E30_BRA,Governo do Estado de Pará,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+252,E31_BRA,Governo do Estado de Pernambuco,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+253,E32_BRA,Governo do Estado de Piauí,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+254,E33_BRA,Governo do Estado de Rio Grande do Norte,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+255,E34_BRA,Governo do Estado de Rio Grande do Sul,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+256,E35_BRA,Governo do Estado de Rio de Janeiro,Brasil,Subnacional,Gobierno de primera división administrativa,1,BRA
+257,E36_BRA,Governo do Estado de Rondônia,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+258,E37_BRA,Governo do Estado de Roraima,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+259,E38_BRA,Governo do Estado de Santa Catarina,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+260,E39_BRA,Governo do Estado de Sergipe,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+261,E40_BRA,Governo do Estado de São Paulo,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+262,E41_BRA,Governo do Estado de Tocantins,Brasil,Subnacional,Gobierno de primera división administrativa,0,BRA
+263,E42_BRA,Prefeitura São Paulo,Brasil,Subnacional,Gobierno local (división administrativa menor),1,BRA
+264,E43_BRA,Prefeitura da Cidade do Rio de Janeiro,Brasil,Subnacional,Gobierno local (división administrativa menor),0,BRA
+265,E44_BRA,Prefeitura de Manaus,Brasil,Subnacional,Gobierno local (división administrativa menor),1,BRA
+266,E45_BRA,Prefeitura de Curitiba,Brasil,Subnacional,Gobierno local (división administrativa menor),0,BRA
+267,E46_BRA,Prefeitura de Campinas,Brasil,Subnacional,Gobierno local (división administrativa menor),0,BRA
+268,E47_BRA,Prefeitura de Belo Horizonte,Brasil,Subnacional,Gobierno local (división administrativa menor),0,BRA
+269,E48_BRA,Prefeitura de São Bernardo do Campo,Brasil,Subnacional,Gobierno local (división administrativa menor),0,BRA
+270,E49_BRA,Prefeitura de Porto Alegre,Brasil,Subnacional,Gobierno local (división administrativa menor),0,BRA
+271,E50_BRA,Prefeitura de Goiânia,Brasil,Subnacional,Gobierno local (división administrativa menor),0,BRA
+272,E01_CHL,Corporación de Fomento de la Producción (CORFO),Chile,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,CHL
+273,E02_CHL,Servicio de Cooperación Técnica (SERCOTEC),Chile,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,CHL
+274,E03_CHL,Agencia de Sustentabilidad y Cambio Climático,Chile,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,CHL
+275,E04_CHL,InvestChile,Chile,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,CHL
+276,E05_CHL,ProChile,Chile,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,CHL
+277,E06_CHL,ChileCompra / Dirección de Compras y Contratación Pública,Chile,Nacional,Entidad de compras públicas/abastecimiento,0,CHL
+278,E07_CHL,Ministerio de Energía,Chile,Nacional,Ministerio,1,CHL
+279,E08_CHL,Ministerio de Minería,Chile,Nacional,Ministerio,1,CHL
+280,E08_CHL,Ministerio de Minería,Chile,Nacional,Ministerio,1,CHL
+281,E09_CHL,"Ministerio de Economía, Fomento y Turismo",Chile,Nacional,Ministerio,1,CHL
+282,E09_CHL,"Ministerio de Economía, Fomento y Turismo",Chile,Nacional,Ministerio,1,CHL
+283,E10_CHL,INDAP,Chile,Nacional,Otra entidad pública nacional,1,CHL
+284,E11_CHL,Gobierno Regional de Aysén del General Carlos Ibañez del Campo,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+285,E12_CHL,Gobierno Regional de Antofagasta,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+286,E13_CHL,Gobierno Regional de Arica y Parinacota,Chile,Subnacional,Gobierno de primera división administrativa,0,CHL
+287,E14_CHL,Gobierno Regional de Atacama,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+288,E15_CHL,Gobierno Regional de Biobío,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+289,E15_CHL,Gobierno Regional de Biobío,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+290,E15_CHL,Gobierno Regional de Biobío,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+291,E16_CHL,Gobierno Regional de Coquimbo,Chile,Subnacional,Gobierno de primera división administrativa,0,CHL
+292,E17_CHL,Gobierno Regional de La Araucanía,Chile,Subnacional,Gobierno de primera división administrativa,0,CHL
+293,E18_CHL,Gobierno Regional de Libertador General Bernardo O'Higgins,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+294,E19_CHL,Gobierno Regional de Los Lagos,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+295,E20_CHL,Gobierno Regional de Los Ríos,Chile,Subnacional,Gobierno de primera división administrativa,0,CHL
+296,E21_CHL,Gobierno Regional de Magallanes,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+297,E21_CHL,Gobierno Regional de Magallanes,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+298,E22_CHL,Gobierno Regional de Maule,Chile,Subnacional,Gobierno de primera división administrativa,0,CHL
+299,E23_CHL,Gobierno Regional de Región Metropolitana de Santiago,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+300,E24_CHL,Gobierno Regional de Tarapacá,Chile,Subnacional,Gobierno de primera división administrativa,0,CHL
+301,E25_CHL,Gobierno Regional de Valparaíso,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+302,E26_CHL,Gobierno Regional de Ñuble,Chile,Subnacional,Gobierno de primera división administrativa,1,CHL
+303,E27_CHL,Municipalidad de Santiago,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+304,E28_CHL,Municipalidad de Antofagasta,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+305,E29_CHL,Municipalidad de Puente Alto,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+306,E30_CHL,Municipalidad de San Bernardo,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+307,E31_CHL,Municipalidad de Concepción,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+308,E32_CHL,Municipalidad de Rancagua,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+309,E33_CHL,Municipalidad de Temuco,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+310,E34_CHL,Municipalidad de Valparaíso,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+311,E35_CHL,Municipalidad de Talagante,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+312,E36_CHL,Municipalidad de Coquimbo,Chile,Subnacional,Gobierno local (división administrativa menor),0,CHL
+313,E01_COL,Colombia Productiva,Colombia,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,COL
+314,E02_COL,iNNpulsa Colombia,Colombia,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,COL
+315,E03_COL,ProColombia,Colombia,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,COL
+316,E04_COL,Agencia de Desarrollo Rural (ADR),Colombia,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,COL
+317,E05_COL,Bancóldex,Colombia,Nacional,Banco o institución financiera pública,0,COL
+318,E06_COL,Colombia Compra Eficiente,Colombia,Nacional,Entidad de compras públicas/abastecimiento,0,COL
+319,E07_COL,Ministerio de Minas y Energía,Colombia,Nacional,Ministerio,0,COL
+320,E08_COL,"Ministerio de Comercio, Industria y Turismo",Colombia,Nacional,Ministerio,1,COL
+321,E09_COL,Ruta N Medellín,Colombia,Subnacional,"Agencia/entidad de desarrollo, inversión o comercio",0,COL
+322,E10_COL,Gobernación de Amazonas,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+323,E11_COL,Gobernación de Antioquia,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+324,E11_COL,Gobernación de Antioquia,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+325,E12_COL,Gobernación de Arauca,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+326,E13_COL,Gobernación de Atlántico,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+327,E14_COL,Gobernación de Bolívar,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+328,E15_COL,Gobernación de Boyacá,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+329,E16_COL,Gobernación de Caldas,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+330,E17_COL,Gobernación de Caquetá,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+331,E18_COL,Gobernación de Casanare,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+332,E19_COL,Gobernación de Cauca,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+333,E20_COL,Gobernación de Cesar,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+334,E21_COL,Gobernación de Chocó,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+335,E22_COL,Gobernación de Cundinamarca,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+336,E23_COL,Gobernación de Córdoba,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+337,E24_COL,Gobernación de Guainía,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+338,E25_COL,Gobernación de Guaviare,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+339,E26_COL,Gobernación de Huila,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+340,E27_COL,Gobernación de La Guajira,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+341,E28_COL,Gobernación de Magdalena,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+342,E29_COL,Gobernación de Meta,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+343,E30_COL,Gobernación de Nariño,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+344,E31_COL,Gobernación de Norte de Santander,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+345,E32_COL,Gobernación de Putumayo,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+346,E33_COL,Gobernación de Quindío,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+347,E34_COL,Gobernación de Risaralda,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+348,E35_COL,"Gobernación de San Andrés, Providencia y Santa Catalina",Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+349,E36_COL,Gobernación de Santander,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+350,E37_COL,Gobernación de Sucre,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+351,E38_COL,Gobernación de Tolima,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+352,E39_COL,Gobernación de Valle del Cauca,Colombia,Subnacional,Gobierno de primera división administrativa,1,COL
+353,E40_COL,Gobernación de Vaupés,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+354,E41_COL,Gobernación de Vichada,Colombia,Subnacional,Gobierno de primera división administrativa,0,COL
+355,E42_COL,Alcaldía de Bogotá,Colombia,Subnacional,Gobierno local (división administrativa menor),1,COL
+356,E43_COL,Alcaldía de Medellín,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+357,E44_COL,Alcaldía de Cali,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+358,E45_COL,Alcaldía de Villavicencio,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+359,E46_COL,Alcaldía de Bucaramanga,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+360,E47_COL,Alcaldía de Soacha,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+361,E48_COL,Alcaldía de Barranquilla,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+362,E49_COL,Alcaldía de San Juan de Girón,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+363,E50_COL,Alcaldía de La Calera,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+364,E51_COL,Alcaldía de Buenaventura,Colombia,Subnacional,Gobierno local (división administrativa menor),0,COL
+365,E52_COL,Alcaldía Mayor de Bogotá / Gobierno del Distrito Capital,Colombia,Subnacional,Gobierno municipal/local,1,COL
+366,E53_COL,Agencia de Desarrollo Económico de Bogotá - Secretaría Distrital de Desarrollo Económico,Colombia,Subnacional,Secretaría/ministerio subnacional,1,COL
+367,E01_CRI,Promotora del Comercio Exterior de Costa Rica (PROCOMER),Costa Rica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,CRI
+368,E01_CRI,Promotora del Comercio Exterior de Costa Rica (PROCOMER),Costa Rica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,CRI
+369,E02_CRI,"Ministerio de Economía, Industria y Comercio (MEIC)",Costa Rica,Nacional,Ministerio,1,CRI
+370,E03_CRI,CINDE / Promotora de Inversión de Costa Rica,Costa Rica,Nacional,Otra entidad pública nacional,0,CRI
+371,E04_CRI,Sistema de Banca para el Desarrollo (SBD),Costa Rica,Nacional,Otra entidad pública nacional,0,CRI
+372,E05_CRI,Consejo Nacional de Producción (CNP),Costa Rica,Nacional,Otra entidad pública nacional,0,CRI
+373,E06_CRI,Municipalidad de Alajuela,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+374,E07_CRI,Municipalidad de Desamparados,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+375,E08_CRI,Municipalidad de San José,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+376,E09_CRI,Municipalidad de Cartago,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+377,E10_CRI,Municipalidad de Escazú,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+378,E11_CRI,Municipalidad de Santa Ana,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+379,E12_CRI,Municipalidad de Heredia,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+380,E13_CRI,Municipalidad de Aserrí,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+381,E14_CRI,Municipalidad de Santo Domingo,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+382,E15_CRI,Municipalidad de Guápiles,Costa Rica,Subnacional,Gobierno local (división administrativa menor),0,CRI
+383,E01_CUB,Cámara de Comercio de la República de Cuba,Cuba,Nacional,Cámara/foro/organización empresarial,1,CUB
+384,E02_CUB,Ministerio de Industrias (MINDUS),Cuba,Nacional,Ministerio,1,CUB
+385,E03_CUB,Ministerio del Comercio Exterior y la Inversión Extranjera (MINCEX),Cuba,Nacional,Ministerio,0,CUB
+386,E04_CUB,Ministerio de Economía y Planificación,Cuba,Nacional,Ministerio,0,CUB
+387,E05_CUB,Ministerio de la Agricultura (MINAG),Cuba,Nacional,Ministerio,1,CUB
+388,E06_CUB,Oficina Nacional de Normalización (ONN),Cuba,Nacional,Organismo de normalización/calidad/propiedad intelectual,0,CUB
+389,E07_CUB,Procuba - Centro para la Promoción del Comercio Exterior y la Inversión Extranjera,Cuba,Nacional,Otra entidad pública nacional,0,CUB
+390,E08_CUB,Gobierno Provincial del Poder Popular de Artemisa,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+391,E09_CUB,Gobierno Provincial del Poder Popular de Camagüey,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+392,E10_CUB,Gobierno Provincial del Poder Popular de Ciego de Ávila,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+393,E11_CUB,Gobierno Provincial del Poder Popular de Cienfuegos,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+394,E12_CUB,Gobierno Provincial del Poder Popular de Granma,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+395,E13_CUB,Gobierno Provincial del Poder Popular de Guantánamo,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+396,E14_CUB,Gobierno Provincial del Poder Popular de Holguín,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+397,E15_CUB,Gobierno Provincial del Poder Popular de La Habana,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+398,E16_CUB,Gobierno Provincial del Poder Popular de Las Tunas,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+399,E17_CUB,Gobierno Provincial del Poder Popular de Matanzas,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+400,E18_CUB,Gobierno Provincial del Poder Popular de Mayabeque,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+401,E19_CUB,Gobierno Provincial del Poder Popular de Pinar del Río,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+402,E20_CUB,Gobierno Provincial del Poder Popular de Sancti Spíritus,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+403,E21_CUB,Gobierno Provincial del Poder Popular de Santiago de Cuba,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+404,E22_CUB,Gobierno Provincial del Poder Popular de Villa Clara,Cuba,Subnacional,Gobierno de primera división administrativa,0,CUB
+405,E23_CUB,Santiago de las Vegas,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+406,E24_CUB,La Lisa,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+407,E25_CUB,Vedado,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+408,E26_CUB,Arroyo Naranjo,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+409,E27_CUB,Guanabacoa,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+410,E28_CUB,Marianao,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+411,E29_CUB,San José de las Lajas,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+412,E30_CUB,Santiago de Cuba,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+413,E31_CUB,Holguín,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+414,E32_CUB,Bejucal,Cuba,Subnacional,Gobierno local (división administrativa menor),0,CUB
+415,E33_CUB,Administración Municipal Especial de Isla de la Juventud,Cuba,Subnacional,Gobierno municipal/local,0,CUB
+416,E01_DMA,Invest Dominica Authority,Dominica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,DMA
+417,E02_DMA,Dominica Export Import Agency (DEXIA),Dominica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,DMA
+418,E03_DMA,Public Procurement and Contract Administration Board,Dominica,Nacional,Entidad de compras públicas/abastecimiento,0,DMA
+419,E04_DMA,"Ministry of Trade, Entrepreneurship, Innovation, Business and Export Development",Dominica,Nacional,Ministerio,1,DMA
+420,E05_DMA,"Ministry of Agriculture, Fisheries, Blue and Green Economy",Dominica,Nacional,Ministerio,1,DMA
+421,E06_DMA,Small Business Support Unit,Dominica,Nacional,Otra entidad pública nacional,0,DMA
+422,E07_DMA,Small Business Support Unit,Dominica,Nacional,Secretaría/subsecretaría nacional,0,DMA
+423,E08_DMA,Saint Andrew Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+424,E09_DMA,Saint David Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+425,E10_DMA,Saint George Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+426,E11_DMA,Saint John Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+427,E12_DMA,Saint Joseph Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+428,E13_DMA,Saint Luke Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+429,E14_DMA,Saint Mark Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+430,E15_DMA,Saint Patrick Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+431,E16_DMA,Saint Paul Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+432,E17_DMA,Saint Peter Parish,Dominica,Subnacional,Gobierno de primera división administrativa,0,DMA
+433,E18_DMA,Roseau,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+434,E19_DMA,Pont Cassé,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+435,E20_DMA,Castle Bruce,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+436,E21_DMA,Portsmouth,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+437,E22_DMA,Marigot,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+438,E23_DMA,Berekua,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+439,E24_DMA,Pointe Michel,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+440,E25_DMA,Saint Joseph,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+441,E26_DMA,Colihaut,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+442,E27_DMA,Soufrière,Dominica,Subnacional,Gobierno local (división administrativa menor),0,DMA
+443,E01_ECU,Corporación Financiera Nacional (CFN),Ecuador,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,ECU
+444,E02_ECU,BanEcuador,Ecuador,Nacional,Banco o institución financiera pública,0,ECU
+445,E03_ECU,Servicio Nacional de Contratación Pública (SERCOP),Ecuador,Nacional,Entidad de compras públicas/abastecimiento,0,ECU
+446,E04_ECU,"Ministerio de Producción, Comercio Exterior e Inversiones",Ecuador,Nacional,Ministerio,1,ECU
+447,E05_ECU,Ministerio de Ambiente y Energía,Ecuador,Nacional,Ministerio,0,ECU
+448,E06_ECU,PRO ECUADOR,Ecuador,Nacional,Otra entidad pública nacional,0,ECU
+449,E07_ECU,Subsecretaría de MIPYMES y Artesanías,Ecuador,Nacional,Secretaría/subsecretaría nacional,0,ECU
+450,E08_ECU,Gobierno Provincial del Guayas - Desarrollo Productivo,Ecuador,Subnacional,"Agencia/entidad de desarrollo, inversión o comercio",0,ECU
+451,E09_ECU,Gobierno Provincial de Pichincha - Desarrollo Económico,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+452,E10_ECU,Gobierno Autónomo Descentralizado Provincial de Azuay,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+453,E11_ECU,Gobierno Autónomo Descentralizado Provincial de Bolívar,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+454,E12_ECU,Gobierno Autónomo Descentralizado Provincial de Carchi,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+455,E13_ECU,Gobierno Autónomo Descentralizado Provincial de Cañar,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+456,E14_ECU,Gobierno Autónomo Descentralizado Provincial de Chimborazo,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+457,E15_ECU,Gobierno Autónomo Descentralizado Provincial de Cotopaxi,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+458,E16_ECU,Gobierno Autónomo Descentralizado Provincial de El Oro,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+459,E17_ECU,Gobierno Autónomo Descentralizado Provincial de Esmeraldas,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+460,E18_ECU,Gobierno Autónomo Descentralizado Provincial de Galápagos,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+461,E19_ECU,Gobierno Autónomo Descentralizado Provincial de Guayas,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+462,E20_ECU,Gobierno Autónomo Descentralizado Provincial de Imbabura,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+463,E21_ECU,Gobierno Autónomo Descentralizado Provincial de Loja,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+464,E22_ECU,Gobierno Autónomo Descentralizado Provincial de Los Ríos,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+465,E23_ECU,Gobierno Autónomo Descentralizado Provincial de Manabí,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+466,E24_ECU,Gobierno Autónomo Descentralizado Provincial de Morona Santiago,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+467,E25_ECU,Gobierno Autónomo Descentralizado Provincial de Napo,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+468,E26_ECU,Gobierno Autónomo Descentralizado Provincial de Orellana,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+469,E27_ECU,Gobierno Autónomo Descentralizado Provincial de Pastaza,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+470,E28_ECU,Gobierno Autónomo Descentralizado Provincial de Pichincha,Ecuador,Subnacional,Gobierno de primera división administrativa,1,ECU
+471,E29_ECU,Gobierno Autónomo Descentralizado Provincial de Santa Elena,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+472,E30_ECU,Gobierno Autónomo Descentralizado Provincial de Santo Domingo de los Tsáchilas,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+473,E31_ECU,Gobierno Autónomo Descentralizado Provincial de Sucumbíos,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+474,E32_ECU,Gobierno Autónomo Descentralizado Provincial de Tungurahua,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+475,E33_ECU,Gobierno Autónomo Descentralizado Provincial de Zamora Chinchipe,Ecuador,Subnacional,Gobierno de primera división administrativa,0,ECU
+476,E34_ECU,Municipio de Quito,Ecuador,Subnacional,Gobierno local (división administrativa menor),1,ECU
+477,E35_ECU,Municipio de Guayaquil,Ecuador,Subnacional,Gobierno local (división administrativa menor),1,ECU
+478,E35_ECU,Municipio de Guayaquil,Ecuador,Subnacional,Gobierno local (división administrativa menor),1,ECU
+479,E36_ECU,Municipio de Cuenca,Ecuador,Subnacional,Gobierno local (división administrativa menor),0,ECU
+480,E37_ECU,Municipio de Durán,Ecuador,Subnacional,Gobierno local (división administrativa menor),0,ECU
+481,E38_ECU,Municipio de Santo Domingo,Ecuador,Subnacional,Gobierno local (división administrativa menor),0,ECU
+482,E39_ECU,Municipio de Esmeraldas,Ecuador,Subnacional,Gobierno local (división administrativa menor),0,ECU
+483,E40_ECU,Municipio de Machala,Ecuador,Subnacional,Gobierno local (división administrativa menor),0,ECU
+484,E41_ECU,Municipio de Ambato,Ecuador,Subnacional,Gobierno local (división administrativa menor),0,ECU
+485,E42_ECU,Municipio de Portoviejo,Ecuador,Subnacional,Gobierno local (división administrativa menor),0,ECU
+486,E43_ECU,Municipio de Machachi,Ecuador,Subnacional,Gobierno local (división administrativa menor),0,ECU
+487,E01_SLV,Comisión Nacional de la Micro y Pequeña Empresa (CONAMYPE),El Salvador,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,SLV
+488,E01_SLV,Comisión Nacional de la Micro y Pequeña Empresa (CONAMYPE),El Salvador,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,SLV
+489,E02_SLV,Organismo Promotor de Exportaciones e Inversiones de El Salvador (PROESA / Invest in El Salvador),El Salvador,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,SLV
+490,E03_SLV,Bolsa de Productos y Servicios de El Salvador (BOLPROS),El Salvador,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,SLV
+491,E04_SLV,Banco de Desarrollo de El Salvador (BANDESAL),El Salvador,Nacional,Banco o institución financiera pública,0,SLV
+492,E05_SLV,Ministerio de Economía,El Salvador,Nacional,Ministerio,1,SLV
+493,E06_SLV,Ministerio de Medioambiente y Recursos Naturales,El Salvador,Nacional,Ministerio,0,SLV
+494,E07_SLV,Unidad Normativa de Adquisiciones y Contrataciones de la Administración Pública / COMPRASAL,El Salvador,Nacional,Otra entidad pública nacional,0,SLV
+495,E08_SLV,Gobernación/administración del Departamento de Ahuachapán,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+496,E09_SLV,Gobernación/administración del Departamento de Cabañas,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+497,E10_SLV,Gobernación/administración del Departamento de Chalatenango,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+498,E11_SLV,Gobernación/administración del Departamento de Cuscatlán,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+499,E12_SLV,Gobernación/administración del Departamento de La Libertad,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+500,E13_SLV,Gobernación/administración del Departamento de La Paz,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+501,E14_SLV,Gobernación/administración del Departamento de La Unión,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+502,E15_SLV,Gobernación/administración del Departamento de Morazán,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+503,E16_SLV,Gobernación/administración del Departamento de San Miguel,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+504,E17_SLV,Gobernación/administración del Departamento de San Salvador,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+505,E18_SLV,Gobernación/administración del Departamento de San Vicente,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+506,E19_SLV,Gobernación/administración del Departamento de Santa Ana,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+507,E20_SLV,Gobernación/administración del Departamento de Sonsonate,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+508,E21_SLV,Gobernación/administración del Departamento de Usulután,El Salvador,Subnacional,Gobierno de primera división administrativa,0,SLV
+509,E22_SLV,San Salvador,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+510,E23_SLV,San Miguel,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+511,E24_SLV,Santa Ana,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+512,E25_SLV,Soyapango,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+513,E26_SLV,Tonacatepeque,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+514,E27_SLV,Apopa,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+515,E28_SLV,Ilopango,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+516,E29_SLV,Nejapa,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+517,E30_SLV,Santa Tecla,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+518,E31_SLV,Colón,El Salvador,Subnacional,Gobierno local (división administrativa menor),0,SLV
+519,E01_GRD,Grenada Investment Development Corporation (GIDC),Granada,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,GRD
+520,E02_GRD,Public Procurement Board / Procurement Unit,Granada,Nacional,Entidad de compras públicas/abastecimiento,0,GRD
+521,E03_GRD,"Ministry of Economic Development, Planning, Tourism, Creative Economy, Culture, Agriculture and Lands, Forestry, Blue Economy, Marine Resources and Cooperatives",Granada,Nacional,Ministerio,1,GRD
+522,E03_GRD,"Ministry of Economic Development, Planning, Tourism, Creative Economy, Culture, Agriculture and Lands, Forestry, Blue Economy, Marine Resources and Cooperatives",Granada,Nacional,Ministerio,1,GRD
+523,E03_GRD,"Ministry of Economic Development, Planning, Tourism, Creative Economy, Culture, Agriculture and Lands, Forestry, Blue Economy, Marine Resources and Cooperatives",Granada,Nacional,Ministerio,1,GRD
+524,E03_GRD,"Ministry of Economic Development, Planning, Tourism, Creative Economy, Culture, Agriculture and Lands, Forestry, Blue Economy, Marine Resources and Cooperatives",Granada,Nacional,Ministerio,1,GRD
+525,E04_GRD,Grenada Bureau of Standards,Granada,Nacional,Organismo de normalización/calidad/propiedad intelectual,0,GRD
+526,E05_GRD,Marketing and National Importing Board (MNIB),Granada,Nacional,Otra entidad pública nacional,0,GRD
+527,E06_GRD,Southern Grenadine Islands Dependency Administration / Local authority where applicable,Granada,Subnacional,"Agencia/entidad de desarrollo, inversión o comercio",0,GRD
+528,E07_GRD,Saint Andrew Parish,Granada,Subnacional,Gobierno de primera división administrativa,0,GRD
+529,E08_GRD,Saint David Parish,Granada,Subnacional,Gobierno de primera división administrativa,0,GRD
+530,E09_GRD,Saint George Parish,Granada,Subnacional,Gobierno de primera división administrativa,0,GRD
+531,E10_GRD,Saint John Parish,Granada,Subnacional,Gobierno de primera división administrativa,0,GRD
+532,E11_GRD,Saint Mark Parish,Granada,Subnacional,Gobierno de primera división administrativa,0,GRD
+533,E12_GRD,Saint Patrick Parish,Granada,Subnacional,Gobierno de primera división administrativa,0,GRD
+534,E13_GRD,Grenville,Granada,Subnacional,Gobierno local (división administrativa menor),0,GRD
+535,E14_GRD,St. George's,Granada,Subnacional,Gobierno local (división administrativa menor),0,GRD
+536,E15_GRD,Sauteurs,Granada,Subnacional,Gobierno local (división administrativa menor),0,GRD
+537,E16_GRD,St. David's,Granada,Subnacional,Gobierno local (división administrativa menor),0,GRD
+538,E17_GRD,Gouyave,Granada,Subnacional,Gobierno local (división administrativa menor),0,GRD
+539,E18_GRD,Victoria,Granada,Subnacional,Gobierno local (división administrativa menor),0,GRD
+540,E19_GRD,Hillsborough,Granada,Subnacional,Gobierno local (división administrativa menor),0,GRD
+541,E01_GTM,Invest Guatemala,Guatemala,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,GTM
+542,E02_GTM,Banco de Desarrollo Rural (BANRURAL) - banca de desarrollo pública/mixta,Guatemala,Nacional,Banco o entidad financiera pública,0,GTM
+543,E03_GTM,Ministerio de Economía (MINECO),Guatemala,Nacional,Ministerio,1,GTM
+544,E04_GTM,Ministerio de Energía y Minas,Guatemala,Nacional,Ministerio,0,GTM
+545,E05_GTM,GUATECOMPRAS / Dirección General de Adquisiciones del Estado,Guatemala,Nacional,Otra entidad pública nacional,0,GTM
+546,E06_GTM,PRONACOM - Programa Nacional de Competitividad,Guatemala,Nacional,Programa/red/plataforma de apoyo,0,GTM
+547,E07_GTM,Viceministerio de Desarrollo de la MIPYME,Guatemala,Nacional,Secretaría/subsecretaría nacional,1,GTM
+548,E08_GTM,Gobernación/administración del Departamento de Alta Verapaz,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+549,E09_GTM,Gobernación/administración del Departamento de Baja Verapaz,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+550,E10_GTM,Gobernación/administración del Departamento de Chimaltenango,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+551,E11_GTM,Gobernación/administración del Departamento de Chiquimula,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+552,E12_GTM,Gobernación/administración del Departamento de El Progreso,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+553,E13_GTM,Gobernación/administración del Departamento de Escuintla,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+554,E14_GTM,Gobernación/administración del Departamento de Guatemala,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+555,E15_GTM,Gobernación/administración del Departamento de Huehuetenango,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+556,E16_GTM,Gobernación/administración del Departamento de Izabal,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+557,E17_GTM,Gobernación/administración del Departamento de Jalapa,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+558,E18_GTM,Gobernación/administración del Departamento de Jutiapa,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+559,E19_GTM,Gobernación/administración del Departamento de Petén,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+560,E20_GTM,Gobernación/administración del Departamento de Quetzaltenango,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+561,E21_GTM,Gobernación/administración del Departamento de Quiché,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+562,E22_GTM,Gobernación/administración del Departamento de Retalhuleu,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+563,E23_GTM,Gobernación/administración del Departamento de Sacatepéquez,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+564,E24_GTM,Gobernación/administración del Departamento de San Marcos,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+565,E25_GTM,Gobernación/administración del Departamento de Santa Rosa,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+566,E26_GTM,Gobernación/administración del Departamento de Sololá,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+567,E27_GTM,Gobernación/administración del Departamento de Suchitepéquez,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+568,E28_GTM,Gobernación/administración del Departamento de Totonicapán,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+569,E29_GTM,Gobernación/administración del Departamento de Zacapa,Guatemala,Subnacional,Gobierno de primera división administrativa,0,GTM
+570,E30_GTM,Villa Canales,Guatemala,Subnacional,Gobierno local (división administrativa menor),0,GTM
+571,E31_GTM,Villa Nueva,Guatemala,Subnacional,Gobierno local (división administrativa menor),0,GTM
+572,E32_GTM,Mixco,Guatemala,Subnacional,Gobierno local (división administrativa menor),0,GTM
+573,E33_GTM,Amatitlán,Guatemala,Subnacional,Gobierno local (división administrativa menor),0,GTM
+574,E34_GTM,San Juan Sacatepéquez,Guatemala,Subnacional,Gobierno local (división administrativa menor),0,GTM
+575,E35_GTM,Santa Catarina Pinula,Guatemala,Subnacional,Gobierno local (división administrativa menor),0,GTM
+576,E36_GTM,Morales,Guatemala,Subnacional,Gobierno local (división administrativa menor),0,GTM
+577,E37_GTM,San Miguel Petapa,Guatemala,Subnacional,Gobierno local (división administrativa menor),0,GTM
+578,E38_GTM,Ciudad de Guatemala,Guatemala,Subnacional,Gobierno local (división administrativa menor),1,GTM
+579,E39_GTM,Ciudad de Guatemala,Guatemala,Subnacional,Gobierno local (división administrativa menor),1,GTM
+580,E40_GTM,Municipalidad de Guatemala - Dirección de Desarrollo Social/Económico,Guatemala,Subnacional,Gobierno municipal/local,1,GTM
+581,E01_GUY,GO-Invest / Guyana Office for Investment,Guyana,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,GUY
+582,E01_GUY,GO-Invest / Guyana Office for Investment,Guyana,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,GUY
+583,E01_GUY,GO-Invest / Guyana Office for Investment,Guyana,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,GUY
+584,E02_GUY,National Procurement and Tender Administration Board,Guyana,Nacional,Entidad de compras públicas/abastecimiento,0,GUY
+585,E03_GUY,"Ministry of Tourism, Industry and Commerce",Guyana,Nacional,Ministerio,0,GUY
+586,E04_GUY,Ministry of Natural Resources,Guyana,Nacional,Ministerio,1,GUY
+587,E04_GUY,Ministry of Natural Resources,Guyana,Nacional,Ministerio,1,GUY
+588,E04_GUY,Ministry of Natural Resources,Guyana,Nacional,Ministerio,1,GUY
+589,E05_GUY,Guyana National Bureau of Standards,Guyana,Nacional,Organismo de normalización/calidad/propiedad intelectual,1,GUY
+590,E06_GUY,Small Business Bureau Guyana,Guyana,Nacional,Otra entidad pública nacional,0,GUY
+591,E07_GUY,Local Content Secretariat,Guyana,Nacional,Secretaría/subsecretaría nacional,1,GUY
+592,E07_GUY,Local Content Secretariat,Guyana,Nacional,Secretaría/subsecretaría nacional,1,GUY
+593,E07_GUY,Local Content Secretariat,Guyana,Nacional,Secretaría/subsecretaría nacional,1,GUY
+594,E08_GUY,East Berbice-Corentyne Region,Guyana,Subnacional,Banco o institución financiera pública,0,GUY
+595,E09_GUY,Mahaica-Berbice Region,Guyana,Subnacional,Banco o institución financiera pública,0,GUY
+596,E10_GUY,Upper Demerara-Berbice Region,Guyana,Subnacional,Banco o institución financiera pública,0,GUY
+597,E11_GUY,Barima-Waini Region,Guyana,Subnacional,Gobierno de primera división administrativa,0,GUY
+598,E12_GUY,Cuyuni-Mazaruni Region,Guyana,Subnacional,Gobierno de primera división administrativa,0,GUY
+599,E13_GUY,Demerara-Mahaica Region,Guyana,Subnacional,Gobierno de primera división administrativa,0,GUY
+600,E14_GUY,Essequibo Islands-West Demerara Region,Guyana,Subnacional,Gobierno de primera división administrativa,0,GUY
+601,E15_GUY,Pomeroon-Supenaam Region,Guyana,Subnacional,Gobierno de primera división administrativa,0,GUY
+602,E16_GUY,Potaro-Siparuni Region,Guyana,Subnacional,Gobierno de primera división administrativa,0,GUY
+603,E17_GUY,Upper Takutu-Upper Essequibo Region,Guyana,Subnacional,Gobierno de primera división administrativa,0,GUY
+604,E18_GUY,Georgetown,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+605,E19_GUY,Plaisance,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+606,E20_GUY,La Bonne Intention,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+607,E21_GUY,Eccles,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+608,E22_GUY,Grove,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+609,E23_GUY,Mon Repos,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+610,E24_GUY,Linden,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+611,E25_GUY,Buxton,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+612,E26_GUY,Coomacka,Guyana,Subnacional,Gobierno local (división administrativa menor),0,GUY
+613,E01_HTI,Centre de Facilitation des Investissements (CFI Haiti),Haití,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,HTI
+614,E02_HTI,Unité de Promotion de l’Investissement Privé dans le Secteur Agricole (UPISA),Haití,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,HTI
+615,E03_HTI,Bureau Haïtien de Normalisation (BHN),Haití,Nacional,Organismo de normalización/calidad/propiedad intelectual,0,HTI
+616,E04_HTI,Ministère du Commerce et de l’Industrie (MCI),Haití,Nacional,Otra entidad pública nacional,1,HTI
+617,E04_HTI,Ministère du Commerce et de l’Industrie (MCI),Haití,Nacional,Otra entidad pública nacional,1,HTI
+618,E05_HTI,"Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",Haití,Nacional,Otra entidad pública nacional,1,HTI
+619,E05_HTI,"Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",Haití,Nacional,Otra entidad pública nacional,1,HTI
+620,E05_HTI,"Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",Haití,Nacional,Otra entidad pública nacional,1,HTI
+621,E05_HTI,"Ministère de l’Agriculture, des Ressources Naturelles et du Développement Rural",Haití,Nacional,Otra entidad pública nacional,1,HTI
+622,E06_HTI,Banque Nationale de Crédit (BNC),Haití,Nacional,Otra entidad pública nacional,0,HTI
+623,E07_HTI,Commission Nationale des Marchés Publics (CNMP),Haití,Nacional,Otra entidad pública nacional,0,HTI
+624,E08_HTI,Conseil départemental / Délégation départementale de Artibonite,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+625,E09_HTI,Conseil départemental / Délégation départementale de Centre,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+626,E10_HTI,Conseil départemental / Délégation départementale de Grande’Anse,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+627,E11_HTI,Conseil départemental / Délégation départementale de Nippes,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+628,E12_HTI,Conseil départemental / Délégation départementale de Nord,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+629,E13_HTI,Conseil départemental / Délégation départementale de Nord-Est,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+630,E14_HTI,Conseil départemental / Délégation départementale de Nord-Ouest,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+631,E15_HTI,Conseil départemental / Délégation départementale de Ouest,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+632,E16_HTI,Conseil départemental / Délégation départementale de Sud,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+633,E17_HTI,Conseil départemental / Délégation départementale de Sud-Est,Haití,Subnacional,Gobierno de primera división administrativa,0,HTI
+634,E18_HTI,Port-au-Prince,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+635,E19_HTI,Gonaïves,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+636,E20_HTI,Croix-des-Bouquets,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+637,E21_HTI,Léogâne,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+638,E22_HTI,Saint-Marc,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+639,E23_HTI,Dessalines,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+640,E24_HTI,Acul-du-Nord,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+641,E25_HTI,Cap-Haïtien,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+642,E26_HTI,Jérémie,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+643,E27_HTI,Les Cayes,Haití,Subnacional,Gobierno local (división administrativa menor),0,HTI
+644,E01_HND,Banco Hondureño para la Producción y la Vivienda (BANHPROVI),Honduras,Nacional,Banco o institución financiera pública,0,HND
+645,E02_HND,"Instituto Hondureño de Ciencia, Tecnología y la Innovación (IHCIETI/SENACIT)",Honduras,Nacional,Instituto/servicio técnico,0,HND
+646,E03_HND,Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE) / HonduCompras,Honduras,Nacional,Otra entidad pública nacional,0,HND
+647,E04_HND,Centro de Desarrollo Empresarial MIPYME / red CDE-MIPYME,Honduras,Nacional,Programa/red/plataforma de apoyo,1,HND
+648,E05_HND,Secretaría de Desarrollo Económico (SDE),Honduras,Nacional,Secretaría/subsecretaría nacional,0,HND
+649,E06_HND,Secretaría de Agricultura y Ganadería (SAG),Honduras,Nacional,Secretaría/subsecretaría nacional,1,HND
+650,E06_HND,Secretaría de Agricultura y Ganadería (SAG),Honduras,Nacional,Secretaría/subsecretaría nacional,1,HND
+651,E06_HND,Secretaría de Agricultura y Ganadería (SAG),Honduras,Nacional,Secretaría/subsecretaría nacional,1,HND
+652,E07_HND,Gobernación/administración del Departamento de Atlántida,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+653,E08_HND,Gobernación/administración del Departamento de Choluteca,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+654,E09_HND,Gobernación/administración del Departamento de Colón,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+655,E10_HND,Gobernación/administración del Departamento de Comayagua,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+656,E11_HND,Gobernación/administración del Departamento de Copán,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+657,E12_HND,Gobernación/administración del Departamento de Cortés,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+658,E13_HND,Gobernación/administración del Departamento de El Paraíso,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+659,E14_HND,Gobernación/administración del Departamento de Francisco Morazán,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+660,E15_HND,Gobernación/administración del Departamento de Gracias a Dios,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+661,E16_HND,Gobernación/administración del Departamento de Islas de la Bahía,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+662,E17_HND,Gobernación/administración del Departamento de La Paz,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+663,E18_HND,Gobernación/administración del Departamento de Lempira,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+664,E19_HND,Gobernación/administración del Departamento de Ocotepeque,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+665,E20_HND,Gobernación/administración del Departamento de Olancho,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+666,E21_HND,Gobernación/administración del Departamento de Santa Bárbara,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+667,E22_HND,Gobernación/administración del Departamento de Valle,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+668,E23_HND,Gobernación/administración del Departamento de Yoro,Honduras,Subnacional,Gobierno de primera división administrativa,0,HND
+669,E24_HND,Tegucigalpa,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+670,E34_HND,Alcaldía Municipal del Distrito Central - Desarrollo Económico Local,Honduras,Subnacional,Gobierno municipal/local,0,HND
+671,E25_HND,San Pedro Sula,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+672,E26_HND,Choloma,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+673,E27_HND,La Ceiba,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+674,E28_HND,Comayagua,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+675,E29_HND,El Progreso,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+676,E30_HND,Villanueva,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+677,E31_HND,Danlí,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+678,E32_HND,Catacamas,Honduras,Subnacional,Gobierno local (división administrativa menor),1,HND
+679,E33_HND,Choluteca,Honduras,Subnacional,Gobierno local (división administrativa menor),0,HND
+680,E35_HND,Gobernación/administración del Departamento de Intibucá,Honduras,Subnacional,Instituto/servicio técnico,0,HND
+681,E01_JAM,Jamaica Business Development Corporation (JBDC),Jamaica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,JAM
+682,E01_JAM,Jamaica Business Development Corporation (JBDC),Jamaica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,JAM
+683,E02_JAM,JAMPRO - Jamaica Promotions Corporation,Jamaica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,JAM
+684,E02_JAM,JAMPRO - Jamaica Promotions Corporation,Jamaica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,JAM
+685,E02_JAM,JAMPRO - Jamaica Promotions Corporation,Jamaica,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,JAM
+686,E03_JAM,Development Bank of Jamaica (DBJ),Jamaica,Nacional,Banco o institución financiera pública,1,JAM
+687,E03_JAM,Development Bank of Jamaica (DBJ),Jamaica,Nacional,Banco o institución financiera pública,1,JAM
+688,E04_JAM,Office of Public Procurement Policy / Government Procurement,Jamaica,Nacional,Entidad de compras públicas/abastecimiento,0,JAM
+689,E05_JAM,"Ministry of Industry, Investment and Commerce",Jamaica,Nacional,Ministerio,1,JAM
+690,E05_JAM,"Ministry of Industry, Investment and Commerce",Jamaica,Nacional,Ministerio,1,JAM
+691,E05_JAM,"Ministry of Industry, Investment and Commerce",Jamaica,Nacional,Ministerio,1,JAM
+692,E05_JAM,"Ministry of Industry, Investment and Commerce",Jamaica,Nacional,Ministerio,1,JAM
+693,E06_JAM,Ministry of Economic Growth and Infrastructure Development,Jamaica,Nacional,Ministerio,1,JAM
+694,E07_JAM,"Ministry of Agriculture, Fisheries and Mining",Jamaica,Nacional,Ministerio,1,JAM
+695,E07_JAM,"Ministry of Agriculture, Fisheries and Mining",Jamaica,Nacional,Ministerio,1,JAM
+696,E07_JAM,"Ministry of Agriculture, Fisheries and Mining",Jamaica,Nacional,Ministerio,1,JAM
+697,E07_JAM,"Ministry of Agriculture, Fisheries and Mining",Jamaica,Nacional,Ministerio,1,JAM
+698,E07_JAM,"Ministry of Agriculture, Fisheries and Mining",Jamaica,Nacional,Ministerio,1,JAM
+699,E07_JAM,"Ministry of Agriculture, Fisheries and Mining",Jamaica,Nacional,Ministerio,1,JAM
+700,E08_JAM,Scientific Research Council (SRC),Jamaica,Nacional,Otra entidad pública nacional,1,JAM
+701,E09_JAM,Clarendon Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+702,E10_JAM,Hanover Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+703,E11_JAM,Kingston Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+704,E12_JAM,Manchester Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+705,E13_JAM,Portland Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+706,E14_JAM,Saint Andrew Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+707,E15_JAM,Saint Ann Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+708,E16_JAM,Saint Catherine Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+709,E17_JAM,Saint Elizabeth Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+710,E18_JAM,Saint James Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+711,E19_JAM,Saint Mary Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+712,E20_JAM,Saint Thomas Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+713,E21_JAM,Trelawny Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+714,E22_JAM,Westmoreland Parish,Jamaica,Subnacional,Gobierno de primera división administrativa,0,JAM
+715,E23_JAM,Spanish Town,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+716,E24_JAM,Half Way Tree,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+717,E25_JAM,Montego Bay,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+718,E26_JAM,Mandeville,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+719,E27_JAM,May Pen,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+720,E28_JAM,St. Ann's Bay,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+721,E29_JAM,Kingston,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+722,E30_JAM,Black River,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+723,E31_JAM,Port Maria,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+724,E32_JAM,Falmouth,Jamaica,Subnacional,Gobierno local (división administrativa menor),0,JAM
+725,E01_MEX,Unidad de Desarrollo Productivo,México,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,MEX
+726,E02_MEX,Agencia de Transformación Digital y Telecomunicaciones / CompraNet,México,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,MEX
+727,E03_MEX,Nacional Financiera (NAFIN),México,Nacional,Banco o institución financiera pública,1,MEX
+728,E04_MEX,Banco Nacional de Comercio Exterior (BANCOMEXT),México,Nacional,Banco o institución financiera pública,0,MEX
+729,E05_MEX,"Consejo Nacional de Humanidades, Ciencias y Tecnologías (CONAHCYT)",México,Nacional,Otra entidad pública nacional,0,MEX
+730,E06_MEX,Secretaría de Economía,México,Nacional,Secretaría/subsecretaría nacional,1,MEX
+731,E07_MEX,Secretaría de Agricultura y Desarrollo Rural (SADER),México,Nacional,Secretaría/subsecretaría nacional,0,MEX
+732,E08_MEX,Gobierno del Estado de Aguascalientes,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+733,E09_MEX,Gobierno del Estado de Baja California,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+734,E10_MEX,Gobierno del Estado de Baja California Sur,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+735,E11_MEX,Gobierno del Estado de Campeche,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+736,E12_MEX,Gobierno del Estado de Chiapas,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+737,E13_MEX,Gobierno del Estado de Chihuahua,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+738,E13_MEX,Gobierno del Estado de Chihuahua,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+739,E14_MEX,Gobierno del Estado de Coahuila de Zaragoza,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+740,E15_MEX,Gobierno del Estado de Colima,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+741,E16_MEX,Gobierno del Estado de Durango,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+742,E17_MEX,Gobierno del Estado de Guanajuato,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+743,E18_MEX,Gobierno del Estado de Guerrero,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+744,E19_MEX,Gobierno del Estado de Hidalgo,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+745,E20_MEX,Gobierno del Estado de Jalisco,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+746,E21_MEX,Gobierno del Estado de Michoacán de Ocampo,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+747,E22_MEX,Gobierno del Estado de Morelos,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+748,E23_MEX,Gobierno del Estado de México,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+749,E24_MEX,Gobierno del Estado de Nayarit,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+750,E25_MEX,Gobierno del Estado de Nuevo León,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+751,E26_MEX,Gobierno del Estado de Oaxaca,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+752,E27_MEX,Gobierno del Estado de Puebla,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+753,E28_MEX,Gobierno del Estado de Querétaro,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+754,E29_MEX,Gobierno del Estado de San Luis Potosí,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+755,E30_MEX,Gobierno del Estado de Sinaloa,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+756,E31_MEX,Gobierno del Estado de Sonora,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+757,E32_MEX,Gobierno del Estado de Tabasco,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+758,E33_MEX,Gobierno del Estado de Tamaulipas,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+759,E34_MEX,Gobierno del Estado de Tlaxcala,México,Subnacional,Gobierno de primera división administrativa,0,MEX
+760,E35_MEX,Gobierno del Estado de Veracruz de Ignacio de la Llave,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+761,E36_MEX,Gobierno del Estado de Yucatán,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+762,E37_MEX,Gobierno del Estado de Zacatecas,México,Subnacional,Gobierno de primera división administrativa,1,MEX
+763,E38_MEX,Alcaldía de Iztapalapa,México,Subnacional,Gobierno local (división administrativa menor),0,MEX
+764,E39_MEX,Ayuntamiento de Tijuana,México,Subnacional,Gobierno local (división administrativa menor),0,MEX
+765,E40_MEX,Ayuntamiento de Ciudad Juárez,México,Subnacional,Gobierno local (división administrativa menor),0,MEX
+766,E41_MEX,Gobierno de Monterrey,México,Subnacional,Gobierno local (división administrativa menor),1,MEX
+767,E42_MEX,Ayuntamiento de Hermosillo,México,Subnacional,Gobierno local (división administrativa menor),1,MEX
+768,E43_MEX,Alcaldía de Tlalpan,México,Subnacional,Gobierno local (división administrativa menor),0,MEX
+769,E44_MEX,Gobierno de Guadalajara,México,Subnacional,Gobierno local (división administrativa menor),0,MEX
+770,E45_MEX,Ayuntamiento de León de los Aldama,México,Subnacional,Gobierno local (división administrativa menor),0,MEX
+771,E46_MEX,Municipio de Ecatepec,México,Subnacional,Gobierno local (división administrativa menor),0,MEX
+772,E47_MEX,Gobierno Municipal de Zapopan,México,Subnacional,Gobierno local (división administrativa menor),0,MEX
+773,E48_MEX,Gobierno de la Ciudad de México,México,Subnacional,Gobierno local (división administrativa menor),1,MEX
+774,E49_MEX,Gobierno del Estado de Quintana Roo,México,Subnacional,Instituto/servicio técnico,0,MEX
+775,E50_MEX,Secretaría de Desarrollo Económico de la Ciudad de México (SEDECO),México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+776,E51_MEX,Secretaría de Economía de Nuevo León,México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+777,E51_MEX,Secretaría de Economía de Nuevo León,México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+778,E51_MEX,Secretaría de Economía de Nuevo León,México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+779,E52_MEX,Secretaría de Desarrollo Económico de Jalisco,México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+780,E52_MEX,Secretaría de Desarrollo Económico de Jalisco,México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+781,E52_MEX,Secretaría de Desarrollo Económico de Jalisco,México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+782,E53_MEX,Secretaría de Economía e Innovación de Baja California,México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+783,E53_MEX,Secretaría de Economía e Innovación de Baja California,México,Subnacional,Secretaría/ministerio subnacional,1,MEX
+784,E01_NIC,Banco de Fomento a la Producción (Banco Produzcamos),Nicaragua,Nacional,Banco o institución financiera pública,1,NIC
+785,E02_NIC,Instituto Nicaragüense de Tecnología Agropecuaria (INTA),Nicaragua,Nacional,Instituto/servicio técnico,1,NIC
+786,E03_NIC,"Ministerio de Fomento, Industria y Comercio (MIFIC)",Nicaragua,Nacional,Ministerio,1,NIC
+787,E04_NIC,"Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa (MEFCCA)",Nicaragua,Nacional,Ministerio,1,NIC
+788,E04_NIC,"Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa (MEFCCA)",Nicaragua,Nacional,Ministerio,1,NIC
+789,E04_NIC,"Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa (MEFCCA)",Nicaragua,Nacional,Ministerio,1,NIC
+790,E04_NIC,"Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa (MEFCCA)",Nicaragua,Nacional,Ministerio,1,NIC
+791,E05_NIC,Ministerio de Energía,Nicaragua,Nacional,Ministerio,0,NIC
+792,E06_NIC,PRONicaragua,Nicaragua,Nacional,Otra entidad pública nacional,1,NIC
+793,E07_NIC,Sistema de Contrataciones Administrativas Electrónicas (SISCAE),Nicaragua,Nacional,Otra entidad pública nacional,0,NIC
+794,E08_NIC,Delegación/Gobernación Departamental de Boaco,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+795,E09_NIC,Delegación/Gobernación Departamental de Carazo,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+796,E10_NIC,Delegación/Gobernación Departamental de Chinandega,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+797,E11_NIC,Delegación/Gobernación Departamental de Chontales,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+798,E12_NIC,Gobierno Regional Autónomo de Costa Caribe Norte,Nicaragua,Subnacional,Gobierno de primera división administrativa,1,NIC
+799,E13_NIC,Gobierno Regional Autónomo de Costa Caribe Sur,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+800,E14_NIC,Delegación/Gobernación Departamental de Estelí,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+801,E15_NIC,Delegación/Gobernación Departamental de Granada,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+802,E16_NIC,Delegación/Gobernación Departamental de Jinotega,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+803,E17_NIC,Delegación/Gobernación Departamental de León,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+804,E18_NIC,Delegación/Gobernación Departamental de Madriz,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+805,E19_NIC,Delegación/Gobernación Departamental de Managua,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+806,E20_NIC,Delegación/Gobernación Departamental de Masaya,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+807,E21_NIC,Delegación/Gobernación Departamental de Matagalpa,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+808,E22_NIC,Delegación/Gobernación Departamental de Nueva Segovia,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+809,E23_NIC,Delegación/Gobernación Departamental de Rivas,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+810,E24_NIC,Delegación/Gobernación Departamental de Río San Juan,Nicaragua,Subnacional,Gobierno de primera división administrativa,0,NIC
+811,E25_NIC,Managua,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+812,E26_NIC,Matagalpa,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+813,E27_NIC,León,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+814,E28_NIC,Chinandega,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+815,E29_NIC,Jinotega,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+816,E30_NIC,Granada,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+817,E31_NIC,Estelí,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+818,E32_NIC,Tipitapa,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+819,E33_NIC,Bilwi,Nicaragua,Subnacional,Gobierno local (división administrativa menor),0,NIC
+820,E01_PAN,Agencia para la Atracción de Inversiones y Promoción de Exportaciones (PROPANAMA),Panamá,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,PAN
+821,E01_PAN,Agencia para la Atracción de Inversiones y Promoción de Exportaciones (PROPANAMA),Panamá,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,PAN
+822,E02_PAN,Banco Nacional de Panamá,Panamá,Nacional,Banco o institución financiera pública,0,PAN
+823,E03_PAN,Banco de Desarrollo Agropecuario (BDA),Panamá,Nacional,Banco o institución financiera pública,0,PAN
+824,E04_PAN,Instituto de Innovación Agropecuaria de Panamá (IDIAP),Panamá,Nacional,Instituto/servicio técnico,0,PAN
+825,E05_PAN,Ministerio de Comercio e Industrias (MICI),Panamá,Nacional,Ministerio,1,PAN
+826,E05_PAN,Ministerio de Comercio e Industrias (MICI),Panamá,Nacional,Ministerio,1,PAN
+827,E05_PAN,Ministerio de Comercio e Industrias (MICI),Panamá,Nacional,Ministerio,1,PAN
+828,E05_PAN,Ministerio de Comercio e Industrias (MICI),Panamá,Nacional,Ministerio,1,PAN
+829,E05_PAN,Ministerio de Comercio e Industrias (MICI),Panamá,Nacional,Ministerio,1,PAN
+830,E06_PAN,"Autoridad de la Micro, Pequeña y Mediana Empresa (AMPYME)",Panamá,Nacional,Otra entidad pública nacional,0,PAN
+831,E07_PAN,Dirección General de Contrataciones Públicas / Panamá Compra,Panamá,Nacional,Otra entidad pública nacional,0,PAN
+832,E08_PAN,Autoridad Nacional para la Innovación Gubernamental (AIG),Panamá,Nacional,Otra entidad pública nacional,0,PAN
+833,E09_PAN,Gobernación de la Provincia de Bocas del Toro,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+834,E10_PAN,Gobernación de la Provincia de Chiriquí,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+835,E11_PAN,Gobernación de la Provincia de Coclé,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+836,E12_PAN,Gobernación de la Provincia de Colón,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+837,E13_PAN,Gobernación de la Provincia de Darién,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+838,E14_PAN,Gobierno/autoridad de la comarca indígena de Emberá,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+839,E15_PAN,Gobierno/autoridad de la comarca indígena de Guna Yala,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+840,E16_PAN,Gobernación de la Provincia de Herrera,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+841,E17_PAN,Gobernación de la Provincia de Los Santos,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+842,E18_PAN,Gobierno/autoridad de la comarca indígena de Naso Tjër Di,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+843,E19_PAN,Gobierno/autoridad de la comarca indígena de Ngäbe-Buglé,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+844,E20_PAN,Gobernación de la Provincia de Panamá,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+845,E21_PAN,Gobernación de la Provincia de Panamá Oeste,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+846,E22_PAN,Gobernación de la Provincia de Veraguas,Panamá,Subnacional,Gobierno de primera división administrativa,0,PAN
+847,E23_PAN,Ciudad de Panamá,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+848,E24_PAN,Colón,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+849,E25_PAN,Arraiján,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+850,E26_PAN,La Chorrera,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+851,E27_PAN,San Miguelito,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+852,E28_PAN,David,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+853,E29_PAN,Chepo,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+854,E30_PAN,Capira,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+855,E31_PAN,Changuinola,Panamá,Subnacional,Gobierno local (división administrativa menor),0,PAN
+856,E01_PRY,Agencia Financiera de Desarrollo (AFD),Paraguay,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,PRY
+857,E02_PRY,Ministerio de Industria y Comercio (MIC),Paraguay,Nacional,Ministerio,1,PRY
+858,E02_PRY,Ministerio de Industria y Comercio (MIC),Paraguay,Nacional,Ministerio,1,PRY
+859,E02_PRY,Ministerio de Industria y Comercio (MIC),Paraguay,Nacional,Ministerio,1,PRY
+860,E02_PRY,Ministerio de Industria y Comercio (MIC),Paraguay,Nacional,Ministerio,1,PRY
+861,E02_PRY,Ministerio de Industria y Comercio (MIC),Paraguay,Nacional,Ministerio,1,PRY
+862,E03_PRY,Ministerio de Agricultura y Ganadería (MAG),Paraguay,Nacional,Ministerio,1,PRY
+863,E03_PRY,Ministerio de Agricultura y Ganadería (MAG),Paraguay,Nacional,Ministerio,1,PRY
+864,E03_PRY,Ministerio de Agricultura y Ganadería (MAG),Paraguay,Nacional,Ministerio,1,PRY
+865,E04_PRY,"Instituto Nacional de Tecnología, Normalización y Metrología (INTN)",Paraguay,Nacional,Organismo de normalización/calidad/propiedad intelectual,0,PRY
+866,E05_PRY,Crédito Agrícola de Habilitación (CAH),Paraguay,Nacional,Otra entidad pública nacional,0,PRY
+867,E06_PRY,Dirección Nacional de Contrataciones Públicas (DNCP),Paraguay,Nacional,Otra entidad pública nacional,1,PRY
+868,E07_PRY,Red de Inversiones y Exportaciones (REDIEX),Paraguay,Nacional,Programa/red/plataforma de apoyo,0,PRY
+869,E08_PRY,Viceministerio de MIPYMES,Paraguay,Nacional,Secretaría/subsecretaría nacional,1,PRY
+870,E08_PRY,Viceministerio de MIPYMES,Paraguay,Nacional,Secretaría/subsecretaría nacional,1,PRY
+871,E08_PRY,Viceministerio de MIPYMES,Paraguay,Nacional,Secretaría/subsecretaría nacional,1,PRY
+872,E08_PRY,Viceministerio de MIPYMES,Paraguay,Nacional,Secretaría/subsecretaría nacional,1,PRY
+873,E08_PRY,Viceministerio de MIPYMES,Paraguay,Nacional,Secretaría/subsecretaría nacional,1,PRY
+874,E09_PRY,Gobernación del Departamento de Alto Paraguay,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+875,E10_PRY,Gobernación del Departamento de Alto Paraná,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+876,E11_PRY,Gobernación del Departamento de Amambay,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+877,E12_PRY,Gobernación de Boquerón,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+878,E13_PRY,Gobernación de Caaguazú,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+879,E14_PRY,Gobernación de Caazapá,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+880,E15_PRY,Gobernación de Canindeyú,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+881,E16_PRY,Gobernación de Central,Paraguay,Subnacional,Gobierno de primera división administrativa,0,PRY
+882,E17_PRY,Gobernación de Concepción,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+883,E18_PRY,Gobernación de Cordillera,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+884,E19_PRY,Gobernación de Guairá,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+885,E20_PRY,Gobernación de Itapúa,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+886,E21_PRY,Gobernación de Misiones,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+887,E22_PRY,Gobernación de Paraguarí,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+888,E23_PRY,Gobernación de Presidente Hayes,Paraguay,Subnacional,Gobierno de primera división administrativa,0,PRY
+889,E24_PRY,Gobernación de San Pedro,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+890,E25_PRY,Gobernación de Ñeembucú,Paraguay,Subnacional,Gobierno de primera división administrativa,1,PRY
+891,E26_PRY,Municipalidad de Asunción,Paraguay,Subnacional,Gobierno local (división administrativa menor),1,PRY
+892,E27_PRY,Municipalidad de Presidente Franco,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+893,E28_PRY,Municipalidad de Ciudad del Este,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+894,E29_PRY,Municipalidad de Capiatá,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+895,E30_PRY,Municipalidad de Encarnación,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+896,E31_PRY,Municipalidad de Curuguaty,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+897,E32_PRY,Municipalidad de Luque,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+898,E33_PRY,Municipalidad de Pedro Juan Caballero,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+899,E34_PRY,Municipalidad de San Lorenzo,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+900,E35_PRY,Municipalidad de Minga Guazú,Paraguay,Subnacional,Gobierno local (división administrativa menor),0,PRY
+901,E36_PRY,Municipalidad de Asunción,Paraguay,Subnacional,Gobierno municipal/local,1,PRY
+902,E01_PER,PromPerú,Perú,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,PER
+903,E01_PER,PromPerú,Perú,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,PER
+904,E02_PER,Programa Nacional de Desarrollo Tecnológico e Innovación (ProInnóvate),Perú,Nacional,Instituto/servicio técnico,1,PER
+905,E03_PER,Instituto Tecnológico de la Producción (ITP) / Red CITE,Perú,Nacional,Instituto/servicio técnico,0,PER
+906,E04_PER,Ministerio de la Producción (PRODUCE),Perú,Nacional,Ministerio,1,PER
+907,E05_PER,ProInversión,Perú,Nacional,Otra entidad pública nacional,0,PER
+908,E06_PER,COFIDE,Perú,Nacional,Otra entidad pública nacional,1,PER
+909,E07_PER,OSCE / SEACE,Perú,Nacional,Otra entidad pública nacional,0,PER
+910,E08_PER,Agroideas - Programa de Compensaciones para la Competitividad,Perú,Nacional,Programa/red/plataforma de apoyo,0,PER
+911,E09_PER,Gobierno Regional de Arequipa - Gerencia Regional de Producción,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+912,E10_PER,Gobierno Regional de La Libertad - Gerencia Regional de Producción,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+913,E11_PER,Gobierno Regional de Amarumayu,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+914,E12_PER,Gobierno Regional de Ancash,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+915,E13_PER,Gobierno Regional de Apurimaq,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+916,E14_PER,Gobierno Regional de Arequipa,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+917,E15_PER,Gobierno Regional de Ayacucho,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+918,E16_PER,Gobierno Regional de Cajamarca,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+919,E17_PER,Gobierno Regional de Cusco,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+920,E18_PER,Gobierno Regional de El Callao,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+921,E19_PER,Gobierno Regional de Huancavelica,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+922,E20_PER,Gobierno Regional de Hunin,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+923,E21_PER,Gobierno Regional de Huánuco,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+924,E22_PER,Gobierno Regional de Ica,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+925,E23_PER,Gobierno Regional de La Libertad,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+926,E24_PER,Gobierno Regional de Lambayeque,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+927,E25_PER,Gobierno Regional de Lima,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+928,E26_PER,Gobierno Regional de Loreto,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+929,E27_PER,Gobierno Regional de Madre de Dios,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+930,E28_PER,Gobierno Regional de Moquegua,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+931,E29_PER,Gobierno Regional de Pasco,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+932,E30_PER,Gobierno Regional de Piura,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+933,E31_PER,Gobierno Regional de Puno,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+934,E32_PER,Gobierno Regional de San Martin,Perú,Subnacional,Gobierno de primera división administrativa,1,PER
+935,E32_PER,Gobierno Regional de San Martin,Perú,Subnacional,Gobierno de primera división administrativa,1,PER
+936,E33_PER,Gobierno Regional de Tacna,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+937,E34_PER,Gobierno Regional de Tumbes,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+938,E35_PER,Gobierno Regional de Ucayali,Perú,Subnacional,Gobierno de primera división administrativa,0,PER
+939,E36_PER,Municipalidad Metropolitana de Lima,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+940,E37_PER,Municipalidad Provincial de Arequipa,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+941,E38_PER,Municipalidad Provincial de Callao,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+942,E39_PER,Municipalidad Provincial de Trujillo,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+943,E40_PER,Municipalidad Provincial de Piura,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+944,E41_PER,Municipalidad Provincial de Cusco,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+945,E42_PER,Municipalidad Provincial de Chiclayo,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+946,E43_PER,Municipalidad Provincial de Ica,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+947,E44_PER,Municipalidad Provincial de San Vicente de Cañete,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+948,E45_PER,Municipalidad Provincial de Tacna,Perú,Subnacional,Gobierno local (división administrativa menor),0,PER
+949,E46_PER,Municipalidad Metropolitana de Lima,Perú,Subnacional,Gobierno municipal/local,0,PER
+950,E01_DOM,ProDominicana,República Dominicana,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,DOM
+951,E02_DOM,Banco de Reservas / programas MIPYME,República Dominicana,Nacional,Banco o institución financiera pública,0,DOM
+952,E03_DOM,Banco Agrícola de la República Dominicana,República Dominicana,Nacional,Banco o institución financiera pública,0,DOM
+953,E04_DOM,Instituto de Innovación en Biotecnología e Industria (IIBI),República Dominicana,Nacional,Instituto/servicio técnico,0,DOM
+954,E05_DOM,Ministerio de Energía y Minas,República Dominicana,Nacional,Ministerio,0,DOM
+955,E06_DOM,"Ministerio de Industria, Comercio y Mipymes (MICM)",República Dominicana,Nacional,Ministerio,1,DOM
+956,E06_DOM,"Ministerio de Industria, Comercio y Mipymes (MICM)",República Dominicana,Nacional,Ministerio,1,DOM
+957,E06_DOM,"Ministerio de Industria, Comercio y Mipymes (MICM)",República Dominicana,Nacional,Ministerio,1,DOM
+958,E07_DOM,Consejo Nacional de Competitividad,República Dominicana,Nacional,Otra entidad pública nacional,0,DOM
+959,E08_DOM,Dirección General de Contrataciones Públicas,República Dominicana,Nacional,Otra entidad pública nacional,0,DOM
+960,E09_DOM,Viceministerio de Fomento a las Mipymes,República Dominicana,Nacional,Secretaría/subsecretaría nacional,0,DOM
+961,E10_DOM,Gobernación de Azua,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+962,E11_DOM,Gobernación de Baoruco,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+963,E12_DOM,Gobernación de Barahona,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+964,E13_DOM,Gobernación de Dajabón,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+965,E14_DOM,Gobernación de Duarte,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+966,E15_DOM,Gobernación de El Seibo,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+967,E16_DOM,Gobernación de Elías Piña,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+968,E17_DOM,Gobernación de Espaillat,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+969,E18_DOM,Gobernación de Hato Mayor,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+970,E19_DOM,Gobernación de Hermanas Mirabal,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+971,E20_DOM,Gobernación de Independencia,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+972,E21_DOM,Gobernación de La Altagracia,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+973,E22_DOM,Gobernación de La Romana,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+974,E23_DOM,Gobernación de La Vega,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+975,E24_DOM,Gobernación de María Trinidad Sánchez,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+976,E25_DOM,Gobernación de Monseñor Nouel,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+977,E26_DOM,Gobernación de Monte Cristi,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+978,E27_DOM,Gobernación de Monte Plata,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+979,E28_DOM,Gobernación de Pedernales,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+980,E29_DOM,Gobernación de Peravia,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+981,E30_DOM,Gobernación de Puerto Plata,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+982,E31_DOM,Gobernación de Samaná,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+983,E32_DOM,Gobernación de San Cristóbal,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+984,E33_DOM,Gobernación de San José de Ocoa,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+985,E34_DOM,Gobernación de San Juan,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+986,E35_DOM,Gobernación de San Pedro de Macorís,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+987,E36_DOM,Gobernación de Santiago,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+988,E37_DOM,Gobernación de Santiago Rodríguez,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+989,E38_DOM,Gobernación de Santo Domingo,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+990,E39_DOM,Gobernación de Sánchez Ramírez,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+991,E40_DOM,Gobernación de Valverde,República Dominicana,Subnacional,Gobierno de primera división administrativa,0,DOM
+992,E41_DOM,Santo Domingo,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+993,E42_DOM,Santo Domingo Este,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+994,E43_DOM,Santo Domingo Norte,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+995,E44_DOM,Santiago de los Caballeros,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+996,E45_DOM,Santo Domingo Oeste,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+997,E46_DOM,San Cristóbal,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+998,E47_DOM,La Vega,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+999,E48_DOM,San Pedro de Macorís,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+1000,E49_DOM,Los Alcarrizos,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+1001,E50_DOM,Pedro Brand,República Dominicana,Subnacional,Gobierno local (división administrativa menor),0,DOM
+1002,E51_DOM,Ayuntamiento del Distrito Nacional,República Dominicana,Subnacional,Gobierno municipal/local,0,DOM
+1003,E01_KNA,St. Kitts Investment Promotion Agency (SKIPA),Saint Kitts y Nevis,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,KNA
+1004,E02_KNA,Nevis Investment Promotion Agency (NIPA),Saint Kitts y Nevis,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,KNA
+1005,E03_KNA,Procurement Board / Government Procurement,Saint Kitts y Nevis,Nacional,Entidad de compras públicas/abastecimiento,0,KNA
+1006,E04_KNA,"Ministry of Foreign Affairs, Economic Development, International Trade, Investments and Industry and Commerce",Saint Kitts y Nevis,Nacional,Ministerio,0,KNA
+1007,E05_KNA,"Ministry of Agriculture, Fisheries and Marine Resources, Cooperatives, Entrepreneurship and Creative Economy",Saint Kitts y Nevis,Nacional,Ministerio,1,KNA
+1008,E05_KNA,"Ministry of Agriculture, Fisheries and Marine Resources, Cooperatives, Entrepreneurship and Creative Economy",Saint Kitts y Nevis,Nacional,Ministerio,1,KNA
+1009,E06_KNA,St. Kitts and Nevis Bureau of Standards,Saint Kitts y Nevis,Nacional,Organismo de normalización/calidad/propiedad intelectual,0,KNA
+1010,E07_KNA,Small Business Development Centre St. Kitts,Saint Kitts y Nevis,Nacional,Otra entidad pública nacional,0,KNA
+1011,E08_KNA,Nevis Island Administration / Government authority,Saint Kitts y Nevis,Subnacional,"Agencia/entidad de desarrollo, inversión o comercio",0,KNA
+1012,E09_KNA,Saint Kitts Island Administration / Government authority,Saint Kitts y Nevis,Subnacional,"Agencia/entidad de desarrollo, inversión o comercio",0,KNA
+1013,E10_KNA,Figtree,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1014,E11_KNA,Monkey Hill,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1015,E12_KNA,Middle Island,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1016,E13_KNA,Basseterre,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1017,E14_KNA,Nichola Town,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1018,E15_KNA,Charlestown,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1019,E16_KNA,Dieppe Bay Town,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1020,E17_KNA,Saint Paul's,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1021,E18_KNA,Newcastle,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1022,E19_KNA,Sandy Point Town,Saint Kitts y Nevis,Subnacional,Gobierno local (división administrativa menor),0,KNA
+1023,E01_VCT,Invest SVG,San Vicente y las Granadinas,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,VCT
+1024,E02_VCT,Public Procurement Board / Procurement Unit,San Vicente y las Granadinas,Nacional,Entidad de compras públicas/abastecimiento,0,VCT
+1025,E03_VCT,Ministry of Finance and Economic Planning,San Vicente y las Granadinas,Nacional,Ministerio,1,VCT
+1026,E04_VCT,SVG Bureau of Standards,San Vicente y las Granadinas,Nacional,Organismo de normalización/calidad/propiedad intelectual,0,VCT
+1027,E05_VCT,Centre for Enterprise Development (CED),San Vicente y las Granadinas,Nacional,Otra entidad pública nacional,0,VCT
+1028,E06_VCT,Charlotte Parish,San Vicente y las Granadinas,Subnacional,Gobierno de primera división administrativa,0,VCT
+1029,E07_VCT,Grenadines Parish,San Vicente y las Granadinas,Subnacional,Gobierno de primera división administrativa,0,VCT
+1030,E08_VCT,Saint Andrew Parish,San Vicente y las Granadinas,Subnacional,Gobierno de primera división administrativa,0,VCT
+1031,E09_VCT,Saint David Parish,San Vicente y las Granadinas,Subnacional,Gobierno de primera división administrativa,0,VCT
+1032,E10_VCT,Saint George Parish,San Vicente y las Granadinas,Subnacional,Gobierno de primera división administrativa,0,VCT
+1033,E11_VCT,Saint Patrick Parish,San Vicente y las Granadinas,Subnacional,Gobierno de primera división administrativa,0,VCT
+1034,E12_VCT,Georgetown,San Vicente y las Granadinas,Subnacional,Gobierno local (división administrativa menor),0,VCT
+1035,E13_VCT,Kingstown,San Vicente y las Granadinas,Subnacional,Gobierno local (división administrativa menor),0,VCT
+1036,E14_VCT,Barrouallie,San Vicente y las Granadinas,Subnacional,Gobierno local (división administrativa menor),0,VCT
+1037,E15_VCT,Layou,San Vicente y las Granadinas,Subnacional,Gobierno local (división administrativa menor),0,VCT
+1038,E16_VCT,Chateaubelair,San Vicente y las Granadinas,Subnacional,Gobierno local (división administrativa menor),0,VCT
+1039,E17_VCT,Port Elizabeth,San Vicente y las Granadinas,Subnacional,Gobierno local (división administrativa menor),0,VCT
+1040,E01_LCA,Invest Saint Lucia,Santa Lucía,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,LCA
+1041,E02_LCA,Export Saint Lucia / TEPA,Santa Lucía,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,LCA
+1042,E02_LCA,Export Saint Lucia / TEPA,Santa Lucía,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,LCA
+1043,E03_LCA,Public Procurement and Asset Disposal Board,Santa Lucía,Nacional,Entidad de compras públicas/abastecimiento,0,LCA
+1044,E04_LCA,"Ministry of Tourism, Commerce, Investment, Creative Industries, Culture and Heritage",Santa Lucía,Nacional,Ministerio,0,LCA
+1045,E05_LCA,Ministry of Economic Development and Youth Economy,Santa Lucía,Nacional,Ministerio,1,LCA
+1046,E06_LCA,"Ministry of Agriculture, Fisheries, Food Security and Sustainable Development",Santa Lucía,Nacional,Ministerio,1,LCA
+1047,E07_LCA,Saint Lucia Bureau of Standards,Santa Lucía,Nacional,Organismo de normalización/calidad/propiedad intelectual,1,LCA
+1048,E08_LCA,Small Enterprise Development Unit (SEDU),Santa Lucía,Nacional,Otra entidad pública nacional,0,LCA
+1049,E09_LCA,Anse la Raye District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1050,E10_LCA,Canaries District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1051,E11_LCA,Castries District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1052,E12_LCA,Choiseul District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1053,E13_LCA,Dennery District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1054,E14_LCA,Gros Islet District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1055,E15_LCA,Laborie District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1056,E16_LCA,Micoud District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1057,E17_LCA,Soufrière District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1058,E18_LCA,Vieux Fort District,Santa Lucía,Subnacional,Gobierno de primera división administrativa,0,LCA
+1059,E19_LCA,Castries,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1060,E20_LCA,Gros Islet,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1061,E21_LCA,Dennery,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1062,E22_LCA,Anse La Raye,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1063,E23_LCA,Micoud,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1064,E24_LCA,Soufrière,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1065,E25_LCA,Vieux Fort,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1066,E26_LCA,Laborie,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1067,E27_LCA,Canaries,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1068,E28_LCA,Choiseul,Santa Lucía,Subnacional,Gobierno local (división administrativa menor),0,LCA
+1069,E01_SUR,Investment and Development Corporation Suriname (IDCS),Suriname,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,SUR
+1070,E01_SUR,Investment and Development Corporation Suriname (IDCS),Suriname,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,SUR
+1071,E02_SUR,National Development Bank of Suriname (NOB),Suriname,Nacional,Banco o institución financiera pública,1,SUR
+1072,E03_SUR,Public Procurement / Ministry of Finance and Planning,Suriname,Nacional,Entidad de compras públicas/abastecimiento,0,SUR
+1073,E04_SUR,"Ministerie van Economische Zaken, Ondernemerschap en Technologische Innovatie",Suriname,Nacional,Ministerio,1,SUR
+1074,E04_SUR,"Ministerie van Economische Zaken, Ondernemerschap en Technologische Innovatie",Suriname,Nacional,Ministerio,1,SUR
+1075,E04_SUR,"Ministerie van Economische Zaken, Ondernemerschap en Technologische Innovatie",Suriname,Nacional,Ministerio,1,SUR
+1076,E05_SUR,Suriname Standards Bureau,Suriname,Nacional,Organismo de normalización/calidad/propiedad intelectual,1,SUR
+1077,E05_SUR,Suriname Standards Bureau,Suriname,Nacional,Organismo de normalización/calidad/propiedad intelectual,1,SUR
+1078,E06_SUR,Suriname Business Forum / SME support structures,Suriname,Nacional,Programa/red/plataforma de apoyo,1,SUR
+1079,E07_SUR,Brokopondo District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1080,E08_SUR,Commewijne District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1081,E09_SUR,Coronie District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1082,E10_SUR,Marowijne District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1083,E11_SUR,Nickerie District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1084,E12_SUR,Para District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1085,E13_SUR,Paramaribo District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1086,E14_SUR,Saramacca District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1087,E15_SUR,Sipaliwini District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1088,E16_SUR,Wanica District,Suriname,Subnacional,Gobierno de primera división administrativa,0,SUR
+1089,E17_SUR,De Nieuwe Grond,Suriname,Subnacional,Gobierno local (división administrativa menor),0,SUR
+1090,E18_SUR,Koewarasan,Suriname,Subnacional,Gobierno local (división administrativa menor),0,SUR
+1091,E19_SUR,Houttuin,Suriname,Subnacional,Gobierno local (división administrativa menor),0,SUR
+1092,E20_SUR,Paramaribo,Suriname,Subnacional,Gobierno local (división administrativa menor),0,SUR
+1093,E21_SUR,Lelydorp,Suriname,Subnacional,Gobierno local (división administrativa menor),0,SUR
+1094,E22_SUR,Saramaccapolder,Suriname,Subnacional,Gobierno local (división administrativa menor),0,SUR
+1095,E23_SUR,Diitabiki,Suriname,Subnacional,Gobierno local (división administrativa menor),0,SUR
+1096,E01_TTO,exporTT Limited,Trinidad y Tobago,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,TTO
+1097,E01_TTO,exporTT Limited,Trinidad y Tobago,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,TTO
+1098,E01_TTO,exporTT Limited,Trinidad y Tobago,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,TTO
+1099,E01_TTO,exporTT Limited,Trinidad y Tobago,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,TTO
+1100,E02_TTO,Invest Trinidad and Tobago (InvesTT),Trinidad y Tobago,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,TTO
+1101,E03_TTO,Agricultural Development Bank of Trinidad and Tobago,Trinidad y Tobago,Nacional,Banco o institución financiera pública,0,TTO
+1102,E04_TTO,Office of Procurement Regulation,Trinidad y Tobago,Nacional,Entidad de compras públicas/abastecimiento,0,TTO
+1103,E05_TTO,"Ministry of Planning, Economic Affairs and Development",Trinidad y Tobago,Nacional,Ministerio,0,TTO
+1104,E06_TTO,Minister of Labour and Small and Micro Enterprises,Trinidad y Tobago,Nacional,Ministerio,0,TTO
+1105,E07_TTO,Ministry of Energy and Energy Industries,Trinidad y Tobago,Nacional,Ministerio,1,TTO
+1106,E07_TTO,Ministry of Energy and Energy Industries,Trinidad y Tobago,Nacional,Ministerio,1,TTO
+1107,E08_TTO,National Entrepreneurship Development Company Limited (NEDCO),Trinidad y Tobago,Nacional,Otra entidad pública nacional,0,TTO
+1108,E09_TTO,Business Development Company Limited (BDC),Trinidad y Tobago,Nacional,Otra entidad pública nacional,0,TTO
+1109,E10_TTO,"Tobago House of Assembly - Division of Finance, Trade and the Economy",Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,1,TTO
+1110,E11_TTO,Couva-Tabaquite-Talparo Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1111,E12_TTO,Diego Martin Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1112,E13_TTO,Mayaro-Rio Claro Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1113,E14_TTO,Penal-Debe Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1114,E15_TTO,Princes Town Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1115,E16_TTO,San Juan-Laventille Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1116,E17_TTO,Sangre Grande Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1117,E18_TTO,Siparia Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1118,E19_TTO,Tobago Ward,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,1,TTO
+1119,E20_TTO,Tunapuna-Piarco Region,Trinidad y Tobago,Subnacional,Gobierno de primera división administrativa,0,TTO
+1120,E21_TTO,Tunapuna,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1121,E22_TTO,Couva,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1122,E23_TTO,San Juan,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1123,E24_TTO,Penal,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1124,E25_TTO,Diego Martin,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1125,E26_TTO,Chaguanas,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1126,E27_TTO,Princes Town,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1127,E28_TTO,Siparia,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1128,E29_TTO,Sangre Grande,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1129,E30_TTO,Scarborough,Trinidad y Tobago,Subnacional,Gobierno local (división administrativa menor),0,TTO
+1130,E31_TTO,Arima Borough,Trinidad y Tobago,Subnacional,Gobierno municipal/local,0,TTO
+1131,E32_TTO,Chaguanas Borough,Trinidad y Tobago,Subnacional,Gobierno municipal/local,0,TTO
+1132,E33_TTO,Point Fortin Borough,Trinidad y Tobago,Subnacional,Gobierno municipal/local,0,TTO
+1133,E34_TTO,Port of Spain City,Trinidad y Tobago,Subnacional,Gobierno municipal/local,0,TTO
+1134,E35_TTO,San Fernando City,Trinidad y Tobago,Subnacional,Gobierno municipal/local,0,TTO
+1135,E01_URY,Agencia Nacional de Desarrollo (ANDE),Uruguay,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",1,URY
+1136,E02_URY,Agencia Nacional de Investigación e Innovación (ANII),Uruguay,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,URY
+1137,E03_URY,Agencia Reguladora de Compras Estatales (ARCE),Uruguay,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,URY
+1138,E04_URY,Banco República (BROU),Uruguay,Nacional,Banco o institución financiera pública,1,URY
+1139,E05_URY,Instituto Nacional de Investigación Agropecuaria (INIA),Uruguay,Nacional,Instituto/servicio técnico,0,URY
+1140,E06_URY,"Ministerio de Industria, Energía y Minería (MIEM)",Uruguay,Nacional,Ministerio,1,URY
+1141,E07_URY,Uruguay XXI,Uruguay,Nacional,Otra entidad pública nacional,0,URY
+1142,E08_URY,Intendencia Departamental de Artigas,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1143,E09_URY,Intendencia Departamental de Canelones,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1144,E10_URY,Intendencia Departamental de Cerro Largo,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1145,E11_URY,Intendencia Departamental de Colonia,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1146,E12_URY,Intendencia Departamental de Durazno,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1147,E13_URY,Intendencia Departamental de Flores,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1148,E14_URY,Intendencia Departamental de Florida,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1149,E15_URY,Intendencia Departamental de Lavalleja,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1150,E16_URY,Intendencia Departamental de Maldonado,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1151,E17_URY,Intendencia Departamental de Montevideo,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1152,E18_URY,Intendencia Departamental de Paysandú,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1153,E19_URY,Intendencia Departamental de Rivera,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1154,E20_URY,Intendencia Departamental de Rocha,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1155,E21_URY,Intendencia Departamental de Río Negro,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1156,E22_URY,Intendencia Departamental de Salto,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1157,E23_URY,Intendencia Departamental de San José,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1158,E24_URY,Intendencia Departamental de Soriano,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1159,E25_URY,Intendencia Departamental de Tacuarembó,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1160,E26_URY,Intendencia Departamental de Treinta y Tres,Uruguay,Subnacional,Gobierno de primera división administrativa,0,URY
+1161,E27_URY,Intendencia de Montevideo,Uruguay,Subnacional,Gobierno local (división administrativa menor),0,URY
+1162,E28_URY,Intendencia Departamental de Maldonado,Uruguay,Subnacional,Gobierno local (división administrativa menor),0,URY
+1163,E29_URY,Municipio de Ciudad de la Costa,Uruguay,Subnacional,Gobierno local (división administrativa menor),0,URY
+1164,E30_URY,Intendencia de Montevideo - Desarrollo Económico,Uruguay,Subnacional,Gobierno subnacional / territorial,0,URY
+1165,E01_VEN,Servicio Nacional de Contrataciones (SNC),Venezuela,Nacional,"Agencia/entidad de desarrollo, inversión o comercio",0,VEN
+1166,E02_VEN,Banco de Desarrollo Económico y Social de Venezuela (BANDES),Venezuela,Nacional,Banco o institución financiera pública,0,VEN
+1167,E03_VEN,Banco del Tesoro,Venezuela,Nacional,Banco o institución financiera pública,0,VEN
+1168,E04_VEN,Centro Nacional de Comercio Exterior / instituciones de comercio exterior,Venezuela,Nacional,Instituto/servicio técnico,0,VEN
+1169,E05_VEN,Ministerio del Poder Popular de Industrias y Producción Nacional,Venezuela,Nacional,Ministerio,1,VEN
+1170,E05_VEN,Ministerio del Poder Popular de Industrias y Producción Nacional,Venezuela,Nacional,Ministerio,1,VEN
+1171,E06_VEN,Ministerio del Poder Popular de Comercio Nacional,Venezuela,Nacional,Ministerio,0,VEN
+1172,E07_VEN,"Servicio Autónomo Nacional de Normalización, Calidad, Metrología y Reglamentos Técnicos (SENCAMER)",Venezuela,Nacional,Organismo de normalización/calidad/propiedad intelectual,0,VEN
+1173,E08_VEN,Gobernación del Estado Miranda - desarrollo económico/productivo,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1174,E09_VEN,Gobernación del Estado Amazonas,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1175,E10_VEN,Gobernación del Estado Anzoátegui,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1176,E11_VEN,Gobernación del Estado Apure,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1177,E12_VEN,Gobernación del Estado Aragua,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1178,E13_VEN,Gobernación del Estado Barinas,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1179,E14_VEN,Gobernación del Estado Bolívar,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1180,E15_VEN,Gobernación del Estado Carabobo,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1181,E16_VEN,Gobernación del Estado Cojedes,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1182,E17_VEN,Gobernación del Estado Delta Amacuro,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1183,E18_VEN,Dependencias Federales de Dependencias Federales / administración insular,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1184,E19_VEN,Gobierno del Distrito Capital,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1185,E20_VEN,Gobernación del Estado Falcón,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1186,E21_VEN,Gobernación del Estado Guárico,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1187,E22_VEN,Gobernación del Estado La Guaira,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1188,E23_VEN,Gobernación del Estado Lara,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1189,E24_VEN,Gobernación del Estado Miranda,Venezuela,Subnacional,Gobierno de primera división administrativa,1,VEN
+1190,E25_VEN,Gobernación del Estado Monagas,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1191,E26_VEN,Gobernación del Estado Mérida,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1192,E27_VEN,Gobernación del Estado Nueva Esparta,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1193,E28_VEN,Gobernación del Estado Portuguesa,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1194,E29_VEN,Gobernación del Estado Sucre,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1195,E30_VEN,Gobernación del Estado Trujillo,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1196,E31_VEN,Gobernación del Estado Táchira,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1197,E32_VEN,Gobernación del Estado Yaracuy,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1198,E33_VEN,Gobernación del Estado Zulia,Venezuela,Subnacional,Gobierno de primera división administrativa,0,VEN
+1199,E34_VEN,Gobierno de Caracas,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1200,E35_VEN,Alcaldía de Maracaibo,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1201,E36_VEN,Alcaldía del Municipio Iribarren,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1202,E37_VEN,Alcaldía de Valencia,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1203,E38_VEN,Alcaldía de Caroní,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1204,E39_VEN,Municipio de Baruta,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1205,E40_VEN,Alcaldía de San Francisco,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1206,E41_VEN,Alcaldía de Maturín,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1207,E42_VEN,Alcaldía de Mérida,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
+1208,E43_VEN,Alcaldía de El Hatillo,Venezuela,Subnacional,Gobierno local (división administrativa menor),0,VEN
