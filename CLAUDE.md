@@ -1,6 +1,6 @@
 # DRIL repository
 
-Replications, extensions and applications of Deep Research on a Loop (Afonso et al., 2026, NBER WP 35188). Author: Paul Wander (UN-ECLAC). See `README.md` for the map.
+Replications, extensions and applications of Deep Research on a Loop (Afonso et al., 2026, NBER WP 35188). Author: Paul Wander (UN-ECLAC). See `README.md` for the map and `STATUS.md` for the current state and next steps; update `STATUS.md` whenever work is parked.
 
 ## Authorship and branches
 

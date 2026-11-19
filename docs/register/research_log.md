@@ -2,6 +2,12 @@
 
 Dated entries, newest first: prompt, what was done, key results, what failed.
 
+## 2026-11-19. Parked
+
+Prompt. Park the work so that it can be resumed easily.
+
+Done. Wrote `STATUS.md` at the repository root: state of each component, the ordered next steps for proveedores (verification plan, archiving script, verification, independent Stage 1 rerun, update run), what is needed from the user, and how to resume. Linked it from `README.md` and `CLAUDE.md`. No analysis was run.
+
 ## 2026-11-18. proveedores: archive, validator and coverage tables
 
 Prompt. Materials for one DRIL use case (supplier development initiatives, ECLAC): the team's notes, Stage 1 instrument V260714, Stage 2 protocol V260721, the variable dictionary, the Stage 1 entity file and the compiled Stage 2 results and evidence. "How would you proceed?" The user confirmed these are all the materials, approved publishing them (reviewers' names removed), and does not know which model ran the agent.
