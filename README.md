@@ -14,6 +14,10 @@ The repository is maintained by Paul Wander (UN-ECLAC). The views expressed are 
 | `docs/register/` | Research log, decision log and open questions. |
 | `references/` | Literature register. Source documents under copyright are not committed. |
 
+## Status
+
+Work is parked; see [`STATUS.md`](STATUS.md) for the state of each component and the next steps.
+
 ## Projects
 
 | Project | Content |
